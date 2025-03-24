@@ -8,4 +8,8 @@
 
 [singleton design](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/SingletonPattern.md)
 
-[state design]()
+[state design](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/stateDesign.md)
+
+[factory design](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/factoryDesign.md)
+
+[adapter design](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/adaptarPattern.md)
