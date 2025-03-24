@@ -7,3 +7,5 @@
 [decorator design](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/DecoratorPattern.md)
 
 [singleton design](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/SingletonPattern.md)
+
+[state design]()
