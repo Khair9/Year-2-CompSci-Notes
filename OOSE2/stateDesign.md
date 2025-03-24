@@ -7,6 +7,14 @@ The State Pattern is a behavioral design pattern that allows an object to change
 - When using if-else or switch statements to manage state transitions leads to complex code.
 - When you want to encapsulate state-specific behaviors into separate classes.
 
+**Why**
+- **Encapsulation of State-Specific Behavior**: Each state is a separate class, keeping logic clean.
+- **Avoids Complex Conditionals**: Removes if-else chains for state transitions.
+- **Easier Maintainability**: Adding new states doesn’t modify existing code.
+- **Dynamic State Changes**: Object behavior can be changed at runtime.
+
+
+
 <Br>
 
 ## Example state design implementation:
