@@ -8,6 +8,11 @@ The Decorator Pattern is a structural design pattern that allows behavior to be 
 - When subclassing leads to too many classes (instead of creating multiple subclasses, decorators can be stacked dynamically).
 - When following the Open/Closed Principle (open for extension, closed for modification).
 
+**Why Decorator pattern**
+ - Flexibility
+ - Avoids Subclass Explosion: Instead of creating multiple subclasses for combinations (e.g., CoffeeWithMilkAndSugar), decorators allow dynamic stacking.
+ - Follows Open/Closed Principle: New features (decorators) can be added without modifying the existing code.
+
 ## Example Implementation in Java
 **Step 1: Define the Component Interface**
 ```java
