@@ -94,4 +94,30 @@ double myarr[5]; // uninitialised
 int myarr2[4] = {0,-5,3,29}; // initialised
 double q[] = { 0.1, 4e-5}; //q has size 2
 ```
+- strcmp - compare two strings (asks ‘are they different?’) strcmp(string1, string2) 0 if strings are identical (i.e., ‘false’ if they are ‘not different’) Positive if string1 > string2, negative if string1 < string2 (alphabetically: D > A)
+- strlen - length of a string (the number of characters before a '\0')
+strlen("Hello") == 5;
+- strcpy - copy a string from one char array or string literal into a char array. strcpy(destination, source); strcpy(destination, "This is a string");
+- strcat - concatenate (join together) two strings, adding the second to the end of the first. (The array storing the string must be large enough to store the resulting
+new string…). strcat(string1, string2); //result is string1string2
+
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/ee0085d6-f62f-4cd8-9af2-9c88a4aa23db" />
+
+```c
+#include <stdio.h>
+#include <string.h>
+int main(void) {
+char line[100];
+puts("Enter a line of text: ");
+fgets(line, sizeof(line), stdin);
+printf("The line was of length: %d\n", strlen(line));
+return 0;
+}
+```
+#### output
+```
+Enter a line of text:
+One Two
+The line was of length: 8
+```
 
