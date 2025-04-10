@@ -63,6 +63,20 @@ int main(void) {
 	return 0;
 }
 ```
+### segementation
+
+Trying to access memory that your program does not "own" will result in the kernel forcibly killing your program.
+This is a "segmentation fault" (from the model that memory is divided into "segments", owned by different processes).
+### Functions, arrays, and pointers
+
+ - When you pass an array to a function, the function does not copy the contents of the array to a new array inside the function.
+ - Instead, it just copies the address that the array starts at ...  
+ - We say that the array "decays" to a pointer
+ - This means that 
+if you pass an array to a function, it will be modified by anything inside the function.
+The inside of the function has no way to know how "big" the array is.
+    sizeof() will instead return the size of a pointer!
+
 
 
 
