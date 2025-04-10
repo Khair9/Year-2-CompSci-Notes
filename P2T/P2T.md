@@ -3,4 +3,4 @@
 
 [C lecture 2](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/c%20lecture%202.md)
 
-[C lecture 3]()
+[C lecture 3](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/c%20lecture%203.md)
