@@ -62,8 +62,6 @@ int main(void) {
 
 	return 0;
 }
-![image](https://github.com/user-attachments/assets/15b778a9-31d1-4a52-ae12-2ddfd4af8890)
-
 ```
 
 
