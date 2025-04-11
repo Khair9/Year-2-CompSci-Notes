@@ -32,4 +32,5 @@ Econ is on the second half of the course (weeks 6-10)
 <Br>
 <Br>
 <Br>
+
 [US study abroad chat](https://moodle.gla.ac.uk/mod/forum/view.php?id=5101435)
