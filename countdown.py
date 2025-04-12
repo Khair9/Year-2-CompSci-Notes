@@ -29,7 +29,7 @@ for line in lines:
     if "| Subject" in line:
         in_table = True
         header_handled = False
-        new_lines.append("| Subject       | Time Left      | Progress |\n")
+        new_lines.append("| Subject       | Time Left      | Percentage of Grade |\n")
         continue
 
     # Table separator line (e.g. |--------|------|------|)
