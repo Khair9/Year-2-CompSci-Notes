@@ -1,19 +1,20 @@
 # Year-2-Notes-Sem-2
 
 <!-- countdown start -->
+<!-- countdown end -->
 ## ⏳ Countdown
 
 **18 days** left until May 1, 2025 🚀
 <!-- countdown end -->
 
 ## May Exam breakdown:
-| Subject       | Due Date  | Progress |
-|---------------|-----------|----------|
-| P2T           | 1/5/25    | 50%      |
-| Alg & Data    | 2/5/25    | 80%      |
-| OOSE          | 12/5/25   | 60%      |
-| Econ          | 14/5/25   | 50%      |
-| WAD           | 19/5/25   | 40%      |
+| Subject       | Time Left      | Progress |
+| --------------- | TBD            | ----------      |
+| P2T           | in 18 days     | 50%      |
+| Alg & Data    | in 19 days     | 80%      |
+| OOSE          | in 29 days     | 60%      |
+| Econ          | in 31 days     | 50%      |
+| WAD           | in 36 days     | 40%      |
 
 
 Econ is on the second half of the course (weeks 6-10)
