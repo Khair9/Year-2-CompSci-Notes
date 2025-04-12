@@ -1,31 +1,54 @@
 from datetime import datetime
 
-# Set your countdown target
-target_date = datetime(2025, 5, 1)
-now = datetime.utcnow()
-delta = target_date - now
+# Mapping of subjects to their exam dates
+exams = {
+    "P2T": "2025-05-01",
+    "Alg & Data": "2025-05-02",
+    "OOSE": "2025-05-12",
+    "Econ": "2025-05-14",
+    "WAD": "2025-05-19",
+}
 
-# Countdown message
-countdown_text = f"<!-- countdown start -->\n" \
-                 f"## ⏳ Countdown\n\n" \
-                 f"**{delta.days} days** left until May 1, 2025 🚀\n" \
-                 f"<!-- countdown end -->"
-
-# Read the current README
+# Load README
 with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
+    lines = f.readlines()
 
-# Replace the countdown block
-start = "<!-- countdown start -->"
-end = "<!-- countdown end -->"
+now = datetime.utcnow()
+new_lines = []
+in_table = False
 
-if start in content and end in content:
-    pre = content.split(start)[0]
-    post = content.split(end)[1]
-    new_content = pre + countdown_text + post
+for line in lines:
+    # Skip and later replace the countdown block (optional)
+    if "<!-- countdown start -->" in line:
+        new_lines.append("<!-- countdown start -->\n")
+        new_lines.append("<!-- countdown end -->\n")
+        continue
 
-    # Write updated README
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_content)
-else:
-    print("Countdown markers not found in README.md")
+    if "| Subject" in line:
+        in_table = True
+        new_lines.append("| Subject       | Time Left      | Progress |\n")
+        continue
+
+    if in_table and "|" in line and not line.startswith("| Subject"):
+        parts = line.strip().split("|")
+        if len(parts) < 4:
+            new_lines.append(line)
+            continue
+
+        subject = parts[1].strip()
+        date_str = exams.get(subject)
+        if date_str:
+            exam_date = datetime.strptime(date_str, "%Y-%m-%d")
+            days_left = (exam_date - now).days
+            time_left = f"in {days_left} days" if days_left >= 0 else "done"
+        else:
+            time_left = "TBD"
+
+        new_line = f"| {subject:<13} | {time_left:<14} | {parts[3].strip()}      |\n"
+        new_lines.append(new_line)
+    else:
+        new_lines.append(line)
+
+# Write updated README
+with open("README.md", "w", encoding="utf-8") as f:
+    f.writelines(new_lines)
