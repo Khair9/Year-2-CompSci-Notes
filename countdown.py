@@ -42,7 +42,7 @@ for line in lines:
             days_left = (exam_date - now).days
             time_left = f"in {days_left} days" if days_left >= 0 else "done"
         else:
-            time_left = "TBD"
+            time_left = "----------"
 
         new_line = f"| {subject:<13} | {time_left:<14} | {parts[3].strip()}      |\n"
         new_lines.append(new_line)
