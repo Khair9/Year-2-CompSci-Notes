@@ -1,4 +1,8 @@
 # Year-2-Notes-Sem-2
+
+<!-- countdown start -->
+<!-- countdown end -->
+
 ## May Exam breakdown:
 | Subject       | Due Date  | Progress |
 |---------------|-----------|----------|
