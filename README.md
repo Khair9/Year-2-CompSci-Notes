@@ -2,6 +2,7 @@
 
 <!-- countdown start -->
 <!-- countdown end -->
+<!-- countdown end -->
 ## ⏳ Countdown
 
 **18 days** left until May 1, 2025 🚀
@@ -9,7 +10,7 @@
 
 ## May Exam breakdown:
 | Subject       | Time Left      | Progress |
-| --------------- | TBD            | ----------      |
+| --------------- | ----------     | ----------      |
 | P2T           | in 18 days     | 50%      |
 | Alg & Data    | in 19 days     | 80%      |
 | OOSE          | in 29 days     | 60%      |
