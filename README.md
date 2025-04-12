@@ -3,10 +3,11 @@
 <!-- countdown start -->
 <!-- countdown end -->
 <!-- countdown end -->
+<!-- countdown end -->
 
 
 ## May Exam breakdown:
-| Subject       | Time Left      | Progress |
+| Subject       | Time Left      | Percentage of Grade |
 |---------------|----------------|----------|
 | P2T           | in 18 days     | 50%      |
 | Alg & Data    | in 19 days     | 80%      |
