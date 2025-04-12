@@ -2,12 +2,7 @@
 
 <!-- countdown start -->
 <!-- countdown end -->
-<!-- countdown end -->
-<!-- countdown end -->
-## ⏳ Countdown
 
-**18 days** left until May 1, 2025 🚀
-<!-- countdown end -->
 
 ## May Exam breakdown:
 | Subject       | Time Left      | Progress |
