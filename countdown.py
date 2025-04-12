@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# Mapping of subjects to their exam dates
+# Define exam dates
 exams = {
     "P2T": "2025-05-01",
     "Alg & Data": "2025-05-02",
@@ -9,46 +9,56 @@ exams = {
     "WAD": "2025-05-19",
 }
 
-# Load README
+# Read README
 with open("README.md", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
 now = datetime.utcnow()
 new_lines = []
 in_table = False
+header_handled = False
 
 for line in lines:
-    # Skip and later replace the countdown block (optional)
+    # Skip and remove countdown block (optional)
     if "<!-- countdown start -->" in line:
         new_lines.append("<!-- countdown start -->\n")
         new_lines.append("<!-- countdown end -->\n")
         continue
 
+    # Detect table header
     if "| Subject" in line:
         in_table = True
+        header_handled = False
         new_lines.append("| Subject       | Time Left      | Progress |\n")
         continue
 
-    if in_table and "|" in line and not line.startswith("| Subject"):
-        parts = line.strip().split("|")
-        if len(parts) < 4:
-            new_lines.append(line)
-            continue
+    # Table separator line (e.g. |--------|------|------|)
+    if in_table and not header_handled and "-" in line:
+        new_lines.append("|---------------|----------------|----------|\n")
+        header_handled = True
+        continue
 
-        subject = parts[1].strip()
-        date_str = exams.get(subject)
-        if date_str:
-            exam_date = datetime.strptime(date_str, "%Y-%m-%d")
-            days_left = (exam_date - now).days
-            time_left = f"in {days_left} days" if days_left >= 0 else "done"
+    # Update table rows
+    if in_table and "|" in line and header_handled:
+        parts = [p.strip() for p in line.strip().split("|")]
+        if len(parts) >= 4:
+            subject = parts[1]
+            progress = parts[3]
+            if subject in exams:
+                exam_date = datetime.strptime(exams[subject], "%Y-%m-%d")
+                days_left = (exam_date - now).days
+                time_left = f"in {days_left} days" if days_left >= 0 else "done"
+            else:
+                time_left = "TBD"
+            new_line = f"| {subject:<13} | {time_left:<14} | {progress:<8} |\n"
+            new_lines.append(new_line)
         else:
-            time_left = "----------"
-
-        new_line = f"| {subject:<13} | {time_left:<14} | {parts[3].strip()}      |\n"
-        new_lines.append(new_line)
+            new_lines.append(line)
     else:
+        # End of table
+        in_table = False
         new_lines.append(line)
 
-# Write updated README
+# Save updated README
 with open("README.md", "w", encoding="utf-8") as f:
     f.writelines(new_lines)
