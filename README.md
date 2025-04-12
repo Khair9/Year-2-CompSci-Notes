@@ -1,6 +1,9 @@
 # Year-2-Notes-Sem-2
 
 <!-- countdown start -->
+## ⏳ Countdown
+
+**18 days** left until May 1, 2025 🚀
 <!-- countdown end -->
 
 ## May Exam breakdown:
