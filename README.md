@@ -17,7 +17,7 @@ Econ is on the second half of the course (weeks 6-10)
 
 [Algs & Data](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/AlgsData.md)
 
-[Econ]()
+[Econ](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/econ.md)
 
 
 
