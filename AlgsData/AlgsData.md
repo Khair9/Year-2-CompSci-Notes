@@ -2,4 +2,5 @@
 Currently on paper lecutures 1-5
  - l6 on paper (Merge Sort)
  - l7 quicksort 
- - 
+ - l8 heap sort done on paper
+ - [l9 beyond comparision sort]()
