@@ -8,4 +8,4 @@
  - [l9 beyond comparision sort](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l9.md)
  - [l10 linked lists](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l10.md)
  - [l11 abstract data types](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l11.md)
- - [l12 Trees]()
+ - [l12 Trees](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l12.md)
