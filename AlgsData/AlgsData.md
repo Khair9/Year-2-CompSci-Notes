@@ -6,3 +6,4 @@
  - l8 heap sort done on paper
 ### github lecture notes
  - [l9 beyond comparision sort](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l9.md)
+ - [l10 linked lists]()
