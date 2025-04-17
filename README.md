@@ -8,16 +8,17 @@
 <!-- countdown end -->
 <!-- countdown end -->
 <!-- countdown end -->
+<!-- countdown end -->
 
 
 ## May Exam breakdown:
 | Subject       | Time Left      | Percentage of Grade |
 |---------------|----------------|----------|
-| P2T           | in 14 days     | 50%      |
-| Alg & Data    | in 15 days     | 80%      |
-| OOSE          | in 25 days     | 60%      |
-| Econ          | in 27 days     | 50%      |
-| WAD           | in 32 days     | 40%      |
+| P2T           | in 13 days     | 50%      |
+| Alg & Data    | in 14 days     | 80%      |
+| OOSE          | in 24 days     | 60%      |
+| Econ          | in 26 days     | 50%      |
+| WAD           | in 31 days     | 40%      |
 
 
 Econ is on the second half of the course (weeks 6-10)
