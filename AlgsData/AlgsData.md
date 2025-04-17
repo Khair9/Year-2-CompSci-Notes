@@ -11,4 +11,4 @@
  - [l12/13 Trees](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l12.md)
  - [l14 red&black trees, avl trees](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l14.md)
  - [l15 B-trees](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l15.md)
- - [l16 Hash tables]()
+ - [l16 Hash tables](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l16.md)
