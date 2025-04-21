@@ -118,3 +118,44 @@ puts("strings match");
 return 0;
 }
 ```
+
+| I/O Type       | Text Stream                         | Binary Stream                                      |
+|----------------|-------------------------------------|----------------------------------------------------|
+| **Pros**       | Human readable                      | Exact representation of data                      |
+| **Cons**       | Precision loss (esp. floats)        | Opaque                                             |
+|                | Often uses more space than necessary| Less portable to different architectures          |
+
+
+### Reading and Writing Binary Data
+``` c
+long fread(void *start, long size, long num, FILE *file); 
+```
+
+ - fread reads size*num bytes from file, and inserts them into memory starting at
+start.
+ - void * as a type here means that fread will consider start as just a memory
+location – any pointer can be used here, regardless of type!
+
+
+``` c
+long fwrite(void *start, long size, long num, FILE *file);
+```
+- fwrite does the same thing, but takes from start, and writes into file.
+In both cases, there is no check that you're allowed to access all the memory
+you're referring to.
+
+### Binary Stream I/O
+``` c
+#include <stdio.h>
+#include <string.h>
+int main(void) {
+char str[] = "Example string";
+int a[5] = {0,1,2,3,4};
+FILE *fp = fopen("testfile.bin", "wb");//Open a file for writing (binary mode)
+fputs(str, fp);//We can still do "text io" in binary mode
+fwrite(str, sizeof(char), strlen(str), fp);//Equivalent to the fputs, but direct memory copy
+fwrite(a, sizeof(int), 5, fp);//Write the array of ints
+fclose(fp);
+return 0;
+}
+```
