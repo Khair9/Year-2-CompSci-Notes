@@ -28,6 +28,8 @@
 
 Econ is on the second half of the course (weeks 6-10)
 
+[Past Papers](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/past%20papers.md)
+
 [OOSE2](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/oose.md)
 
 [P2T](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/P2T.md)
