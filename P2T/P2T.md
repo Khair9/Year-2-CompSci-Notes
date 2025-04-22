@@ -12,3 +12,5 @@
 [C lecture 6](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/c%20lecture%206.md)
 
 [C lecture 7](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/c%20lecture%207.md)
+
+[C lecture 8](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/c%20lecture%208.md)
