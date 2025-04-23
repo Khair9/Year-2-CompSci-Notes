@@ -1,4 +1,5 @@
-# [Past Papers]()
+# [Past Papers](https://github.com/Khair9/Year-2-CompSci-Notes/tree/main)
+
 [comp Sci past papers](https://moodle.gla.ac.uk/course/view.php?id=21505)
 
 
