@@ -6,8 +6,8 @@
 
 ## P2T
 Paper|Percentage|Time|Review
------|----------|-----|-------
-[2018](https://moodle.gla.ac.uk/pluginfile.php/8608242/mod_resource/content/1/PHYS2003_1_Physics_2T__Prog_Under_Linux_201804.pdf)|--|--|--
+-----|----------|--------|-------
+[2018](https://moodle.gla.ac.uk/pluginfile.php/8608242/mod_resource/content/1/PHYS2003_1_Physics_2T__Prog_Under_Linux_201804.pdf)|65|idk a while tho|&,$,bash needs practical work done the most, some more practical work learning the basics of C as well, function prototypes
 
 
 ## Algs & Datas
