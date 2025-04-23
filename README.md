@@ -44,6 +44,7 @@ Econ is on the second half of the course (weeks 6-10)
 
 
 
+![image](https://github.com/user-attachments/assets/c754efe1-176a-44ac-9d45-e5d5a2e21e96)
 
 
 
