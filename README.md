@@ -26,6 +26,8 @@
 | OOSE          | in 17 days     | 60%      |
 | Econ          | in 19 days     | 50%      |
 | WAD           | in 24 days     | 40%      |
+
+
 [Whats already been done](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/marked.md)
 
 Econ is on the second half of the course (weeks 6-10)
