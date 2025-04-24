@@ -19,9 +19,9 @@
 
 
 ## May Exam breakdown:
-| Subject       | Time Left      | Percentage of Grade | Other Grades
-|---------------|----------------|----------|-----------|
-| P2T           | in 6 days      | 50%      | 25%=C3
+| Subject       | Time Left      | Percentage of Grade |
+|---------------|----------------|----------|
+| P2T           | in 6 days      | 50%      |
 | Alg & Data    | in 7 days      | 80%      |
 | OOSE          | in 17 days     | 60%      |
 | Econ          | in 19 days     | 50%      |
