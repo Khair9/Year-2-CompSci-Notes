@@ -25,6 +25,7 @@
 
 ### P2T
 25% --> C3 --> [practical test](https://moodle.gla.ac.uk/mod/assign/view.php?id=4734099) 
+25% --> --> labs
 
 ### Econ
 30% --> A3 --> incourse exam
