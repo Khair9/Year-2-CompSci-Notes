@@ -44,8 +44,8 @@ Econ is on the second half of the course (weeks 6-10)
 [Econ](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/econ.md)
 
 ## Daily To Do:
-- [ ] Get some more bash coding done(1 hr)
-- [ ] get 5th linux lecture done
+- [x] Get some more bash coding done(1 hr)
+- [x] get 5th linux lecture done
 - [ ] start on OOSE by doing a test
 - [ ] mark the test
 - [ ] revise 2 topics of struggle on oose test (2hr)
