@@ -73,7 +73,7 @@ Econ is on the second half of the course (weeks 6-10)
 - [ ] (cancelled)mark the test
 - [ ] (cancelled)revise 2 topics of struggle on oose test (2hr)
 -  **change of plan: need to revision on oose before attempting paper because i am further behind that expected**
-- [ ] revise 2 lecutures of oose
+- [x] revise 2 lecutures of oose
 - [ ] revise stuuf that was wrong in the alg & data test
 
 
