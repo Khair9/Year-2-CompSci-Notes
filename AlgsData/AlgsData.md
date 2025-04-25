@@ -96,3 +96,65 @@ def merge(left, right):
     return result  # Return the fully merged and sorted list
 
 ```
+
+##### !! Recurrence Equations
+A recurrence equation describes the total time (or cost) of a recursive function.
+
+It breaks the time into:
+ - Work done to divide the problem (outside recursion)
+ - Work done by recursive calls
+
+###### 🧱 Example: Merge Sort
+Let’s say we have T(n) as the time to sort n elements.
+
+T(n) = 2T(n/2) + O(n)
+
+###### 🔍 What does this mean?
+2T(n/2): We split the array into two halves, and recursively sort each → two recursive calls
+
++ O(n): Then we merge the two sorted halves (takes linear time)
+
+###### 🔽 Visual Tree of Work
+Imagine the recursive calls as a tree, where each node represents a subproblem and the work at that level.
+
+
+            T(n)
+          /     \
+     T(n/2)     T(n/2)
+     /   \       /   \
+T(n/4) T(n/4) T(n/4) T(n/4)
+... and so on ...
+Each level:
+
+Has more subproblems, but
+
+Each subproblem is smaller
+
+Total work at each level is about O(n)
+
+###### 🧠 Work by Level:
+css
+Copy
+Edit
+Level 0:      T(n)        → O(n)
+Level 1:   2 x T(n/2)     → O(n)
+Level 2:   4 x T(n/4)     → O(n)
+...
+Level log n: n x T(1)     → O(n)
+🔚 There are about log n levels → so total work is O(n log n)
+
+###### 🧮 Visual Formula Summary
+bash
+Copy
+Edit
+T(n) = aT(n/b) + f(n)
+Where:
+
+a: number of recursive calls
+
+n/b: size of each subproblem
+
+f(n): work done outside the recursion (like merging)
+
+###### 🧠 For Merge Sort:
+a = 2, b = 2, f(n) = n → "divide in half, two parts, merge takes linear time"
