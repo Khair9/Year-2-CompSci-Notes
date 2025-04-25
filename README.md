@@ -74,6 +74,7 @@
 -  **change of plan: need to revision on oose before attempting paper because i am further behind that expected**
 - [x] revise 2 lecutures of oose
 - [ ] revise stuuf that was wrong in the alg & data test
+- [ ] make plan for tommorow
 
 
 
