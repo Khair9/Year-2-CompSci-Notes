@@ -43,12 +43,7 @@ Econ is on the second half of the course (weeks 6-10)
 
 [Econ](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/econ.md)
 
-## Daily To Do:
-- [x] Get some more bash coding done(1 hr)
-- [x] get 5th linux lecture done
-- [ ] start on OOSE by doing a test
-- [ ] mark the test
-- [ ] revise 2 topics of struggle on oose test (2hr)
+
 
 
 <Br>
@@ -62,12 +57,18 @@ Econ is on the second half of the course (weeks 6-10)
 
 
 
-
-<Br>
-<Br>
-<Br>
-<Br>
-<Br>
-<Br>
-
 [US study abroad chat](https://moodle.gla.ac.uk/mod/forum/view.php?id=5101435)
+<Br>
+<Br>
+<Br>
+<Br>
+
+
+
+## Daily To Do:
+#### 25 apr
+- [x] Get some more bash coding done(1 hr)
+- [x] get 5th linux lecture done
+- [ ] start on OOSE by doing a test
+- [ ] mark the test
+- [ ] revise 2 topics of struggle on oose test (2hr)
