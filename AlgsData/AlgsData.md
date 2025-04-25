@@ -35,4 +35,64 @@ fib(1) fib(0)
 ##### Linear Recurrsion
 Linear recursion is a type of recursion where a function makes at most one recursive call per execution. This means the problem is broken down into a single subproblem at each step, which simplifies things compared to multiple recursive calls (like in Fibonacci). Example factorial
 
-#####
+##### Merge Sort
+**Step by step:**
+###### Step 1 --> Divide
+- keep splitting the array in half untill you have single element arrays
+``` ruby
+[38, 27, 43, 3, 9, 82, 10]
+
+=> [38, 27, 43]        [3, 9, 82, 10]
+=> [38] [27, 43]       [3, 9] [82, 10]
+=>     [27] [43]       [3] [9] [82] [10]
+```
+
+
+##### i think most of the problem of understanding is coming from not understanding the merge part, heres the best explaination i could find
+**psuedo code:**
+```function merge(left, right):
+    result = empty list      // This will store the merged sorted elements
+    i = 0, j = 0              // i tracks index in left, j in right
+
+    while i < length of left and j < length of right:
+        if left[i] <= right[j]:      // Compare elements at current indexes
+            append left[i] to result // If left is smaller, take it
+            i = i + 1                // Move to next element in left
+        else:
+            append right[j] to result // Else, take from right
+            j = j + 1                // Move to next element in right
+
+    while i < length of left:        // Add remaining elements from left
+        append left[i] to result
+        i = i + 1
+
+    while j < length of right:       // Add remaining elements from right
+        append right[j] to result
+        j = j + 1
+
+    return result                    // Final merged sorted list
+```
+**python code**
+``` python
+def merge(left, right):
+    result = []  # This list will contain the merged result
+    i = j = 0    # Pointers to track positions in left and right
+
+    # Compare elements from left and right, one at a time
+    while i < len(left) and j < len(right):
+        if left[i] <= right[j]:
+            result.append(left[i])  # Add the smaller element to result
+            i += 1                  # Move pointer in left
+        else:
+            result.append(right[j]) # Add the smaller element to result
+            j += 1                  # Move pointer in right
+
+    # If anything is left in left list, add it to result
+    result.extend(left[i:])
+
+    # If anything is left in right list, add it to result
+    result.extend(right[j:])
+
+    return result  # Return the fully merged and sorted list
+
+```
