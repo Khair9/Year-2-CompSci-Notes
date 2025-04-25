@@ -49,6 +49,10 @@ The debugger lets you decide if you want to:
 
 -----------------
 
-###
+# week 2
+### development styles 
+just a bunch crap about peer programming when its useful and stuff
+- permiscus peer programming is like peer programming but your kind of consulting an expert in that field
+- 
 
 
