@@ -4,4 +4,4 @@
 
 [Design Patterns](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/Design%20Patterns.md)
 
-[Weeks 1-3]()
+[Weeks 1-3](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/weeks%201to3.md)
