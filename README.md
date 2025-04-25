@@ -31,7 +31,6 @@
 
 [Whats already been done](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/marked.md)
 
-Econ is on the second half of the course (weeks 6-10)
 
 [Past Papers](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/past%20papers.md)
 
