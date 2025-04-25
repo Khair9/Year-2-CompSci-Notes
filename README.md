@@ -69,6 +69,12 @@ Econ is on the second half of the course (weeks 6-10)
 #### 25 apr
 - [x] Get some more bash coding done(1 hr)
 - [x] get 5th linux lecture done
-- [ ] start on OOSE by doing a test
-- [ ] mark the test
-- [ ] revise 2 topics of struggle on oose test (2hr)
+- [ ] (cancelled)start on OOSE by doing a test
+- [ ] (cancelled)mark the test
+- [ ] (cancelled)revise 2 topics of struggle on oose test (2hr)
+-  **change of plan: need to revision on oose before attempting paper because i am further behind that expected**
+- [ ] revise 2 lecutures of oose
+- [ ] revise stuuf that was wrong in the alg & data test
+
+
+
