@@ -78,6 +78,14 @@
 - [x] check email from uvm
 - [x] check email from disability adviser
 - [ ] make plan for tommorow
+#### 26 apr
+- [ ] create check list for the day
+- [ ] do uvm required stuff
+- [ ] do algs and data test
+- [ ] mark
+- [ ] create break down of thing that you got wrong
+- [ ] do C coding for 1hr
+- [ ] (bonus) create list for tommorow
 
 
 
