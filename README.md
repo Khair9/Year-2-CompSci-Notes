@@ -80,7 +80,7 @@
 - [ ] make plan for tommorow
 #### 26 apr
 - [x] create check list for the day
-- [ ] do uvm required stuff
+- [x] do uvm required stuff
 - [ ] do algs and data test
 - [ ] mark
 - [ ] create break down of thing that you got wrong
