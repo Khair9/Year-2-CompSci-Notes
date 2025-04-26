@@ -82,8 +82,8 @@
 #### 26 apr
 - [x] create check list for the day
 - [x] do uvm required stuff
-- [ ] do algs and data test
-- [ ] mark
+- [x] do algs and data test
+- [x] mark
 - [ ] create break down of thing that you got wrong
 - [ ] make table for all the sorting algorithms in alg and data
 - [ ] do C coding for 1hr
