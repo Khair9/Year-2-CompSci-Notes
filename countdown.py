@@ -47,7 +47,7 @@ for line in lines:
             if subject in exams:
                 exam_date = datetime.strptime(exams[subject], "%Y-%m-%d")
                 days_left = (exam_date - now).days
-                time_left = f"in {days_left} days" if days_left >= 0 else "done"
+                time_left = f"in {days_left+1} days" if days_left >= 0 else "done"
             else:
                 time_left = "TBD"
             new_line = f"| {subject:<13} | {time_left:<14} | {progress:<8} |\n"
