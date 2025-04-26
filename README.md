@@ -84,6 +84,7 @@
 - [ ] do algs and data test
 - [ ] mark
 - [ ] create break down of thing that you got wrong
+- [ ] make table for all the sorting algorithms in alg and data
 - [ ] do C coding for 1hr
 - [ ] (bonus) create list for tommorow
 
