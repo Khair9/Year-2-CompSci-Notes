@@ -89,6 +89,21 @@
 - [ ] make table for all the sorting algorithms in alg and data
 - [ ] do C coding for 1hr
 - [ ] (bonus) create list for tommorow
+#### 27 apr
+- [x] in depth mark chat gpt **cannot be trusted** gemini is better
+- [x] break down what needs to be reivsed
+- [ ] list for tommorow
+#### 28 apr
+- **before lunch**
+- [ ] make table for all the sorting algorithms in alg and data
+- [ ] do C coding for 1hr
+- [ ] use gemini to show and help you test C and bash skills
+- **after lunch**
+- [ ] bash codeing 1hr
+- [ ] do p2t test
+- [ ] start marking or do something algs and data to switch it up
+
+
 
 
 
