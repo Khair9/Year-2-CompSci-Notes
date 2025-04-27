@@ -92,7 +92,7 @@
 #### 27 apr
 - [x] in depth mark chat gpt **cannot be trusted** gemini is better
 - [x] break down what needs to be reivsed
-- [ ] list for tommorow
+- [x] list for tommorow
 #### 28 apr
 - **before lunch**
 - [ ] make table for all the sorting algorithms in alg and data
