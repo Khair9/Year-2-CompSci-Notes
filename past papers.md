@@ -13,7 +13,7 @@ Paper|Percentage|Time|Review
 ## Algs & Datas
 Paper|Percentage(60 marks)|Time(1:30hr)|Review
 -----|----------|-----|-------
-2019|75|2:39|Recurrsion tree, Linear recurrsion,!!Recurrence Equation,Merge Sort
+2019|75(in accurate chat gpt)|2:39|Recurrsion tree, Linear recurrsion,!!Recurrence Equation,Merge Sort
 2023|62|3:00|what to revise is listed below
 
 
