@@ -15,6 +15,21 @@
  - [l17 Collision Resolution](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l17.md)
  - [l18 Matrix multiplication](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l18.md)
  - [l19 Advanced Design Techniques](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/AlgsData/l19.md)
+
+### All the sorting algorithms
+| Sorting Algorithm | Description | Best Case Complexity | Worst Case Complexity |
+|-------------------|-------------|----------------------|-----------------------|
+| Selection Sort    | Selection sort selects the lowest value in an array then puts it to the left and continues through the array like that. | $O(n^2)$ | $O(n^2)$     |
+| Insertion Sort    | The left side is the sorted side of the array, the algorithm starts with the second element and checks where it fits in the left side(the sorted side of the array). This goes on till the algorithm gets to the end of the array. Which meansbest case the the entire thing is already sorted    |  $O(n)$ |     $O(n^2)$  |
+| Merge Sort        |   This algorithm recursively divides the array into single element arrays, it then conquers by using the merge algorithm that goes through the other algorithm and and inserts the elements in the right order.      |    nlogn   |   nlogn|
+| Quick Sort        |   This is another divide an conquer algorithm, it chooses a pivot(either by random, midpoint or end points) then divides the entire list on each side of that pivoot left if an element is less than right if it is more than. It recurrsively splits the list like this untill each pivot is only separeted by one non-pivot to the next pivot |  nlogn     |   n^2    |
+| Heap Sort         |  Heap sort will create a heap which is an ADT where either the max element is at the top or the lowest is at the top. so  alot of the work happens when you are adding or deleting an element because the heapify function has to be called which rearrages teh heap so that it is in the right order   |  nlogn (n to insert, log n to remove)     |     nlogn  |
+| Radix Sort        | Radix sort is basically the same thing as counting sort but it sort based on the digits. So it first sorts everything based on their first digit and so on. This is very useful when everything is around the same amount of digits and it isnt a high base      |    O(nk) where k is the amount of digits of the largest value   |  O(nk)    |
+| Counting Sort     |       |       |       |
+
+
+
+
 ### stuff i got wrong explained
 
 ##### Recurrsion Tree
