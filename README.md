@@ -96,10 +96,10 @@
 - [x] list for tommorow
 #### 28 apr
 - **before lunch**
-- [ ] make table for all the sorting algorithms in alg and data
+- [x] make table for all the sorting algorithms in alg and data
 - [x] do C coding for 1hr
 - [x] use gemini to show and help you test C and bash skills
-- [ ] find p2t test
+- [x] find p2t test
 - **after lunch**
 - [ ] bash codeing 1hr
 - [ ] do p2t test
