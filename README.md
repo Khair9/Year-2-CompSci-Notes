@@ -97,8 +97,9 @@
 #### 28 apr
 - **before lunch**
 - [ ] make table for all the sorting algorithms in alg and data
-- [ ] do C coding for 1hr
-- [ ] use gemini to show and help you test C and bash skills
+- [x] do C coding for 1hr
+- [x] use gemini to show and help you test C and bash skills
+- [ ] find p2t test
 - **after lunch**
 - [ ] bash codeing 1hr
 - [ ] do p2t test
