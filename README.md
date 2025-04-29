@@ -112,9 +112,9 @@
 - [x] finish P2T test
 - [x] send email to get physics exam time table
 
-- [ ] Do algs and data test
+- [x] Do algs and data test
 - [ ] mark p2t
-- [ ] mark slgs and data
+- [x] mark slgs and data
       
 
 
