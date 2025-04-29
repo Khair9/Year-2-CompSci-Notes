@@ -16,6 +16,8 @@ Paper|Percentage(60 marks)|Time(1:30hr)|Review
 -----|----------|-----|-------
 2019|75(in accurate chat gpt)|2:39|Recurrsion tree, Linear recurrsion,!!Recurrence Equation,Merge Sort
 2023|62|3:00|what to revise is listed below
+2021|82|2:00|<img width="500" alt="image" src="https://github.com/user-attachments/assets/cba85039-348d-469c-8d8d-d07f101407ec" />
+
 
 
 Based on the marks you lost in the test, here are the main topics I recommend you focus on for revision:
