@@ -56,6 +56,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/c754efe1-176a-44ac-9d45-e5d5a2e21e96)
+![image](https://github.com/user-attachments/assets/5f608d3f-18d1-49c8-bfcb-0bc2f3e3d518)
 
 
 
@@ -109,6 +110,7 @@
 - [ ] revise p2t
 #### 29 apr
 - [ ] finish P2T test
+- [ ] send email to get physics exam time table
       
 
 
