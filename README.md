@@ -109,8 +109,12 @@
 - **change of plan i think i need to do more revision on p2t which i will do for the remander of the day wake up at 8:00 tmr and get finish the test**
 - [ ] revise p2t
 #### 29 apr
-- [ ] finish P2T test
-- [ ] send email to get physics exam time table
+- [x] finish P2T test
+- [x] send email to get physics exam time table
+
+- [ ] Do algs and data test
+- [ ] mark p2t
+- [ ] mark slgs and data
       
 
 
