@@ -58,6 +58,8 @@
 
 ![image](https://github.com/user-attachments/assets/c754efe1-176a-44ac-9d45-e5d5a2e21e96)
 ![image](https://github.com/user-attachments/assets/5f608d3f-18d1-49c8-bfcb-0bc2f3e3d518)
+![image](https://github.com/user-attachments/assets/bbb92460-d2b8-4e5a-afbe-d8f3bcfb0919)
+
 
 
 
@@ -118,7 +120,7 @@
 #### 30 apr
 - [x] mark p2t
 - [x] compile list of topics in p2t to revise
-- [ ] email about physics time table (3pm)
+- [x] email about physics time table (3pm)
 - [ ] make sure you cancel wifi and energy
 - [ ] revise p2t topics that need addressing
 - [ ] do the same for algs and data
