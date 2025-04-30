@@ -32,6 +32,21 @@
 
 ### stuff i got wrong explained
 
+### Big O notation
+When we write $f(n)=O(g(n))$, it's actually saying:
+
+"The function f(n) belongs to the set of functions that are bounded above by a constant multiple of g(n) for sufficiently large n."
+
+<Br>
+
+Or, more simply:
+
+"f(n) grows no faster than g(n)."
+
+So, the statement $29=O(log2(n))$ doesn't mean the number 29 is equal to the function $log2​(n)$. It means:
+"The constant function $f(n)=29$ is in the group (or set) of functions that are $O(log2(n))$."
+
+
 ##### Recurrsion Tree
 A recursion tree is a visual tool used to represent how a recursive algorithm breaks down a problem into subproblems. It helps you:
  - Visualize each recursive call as a node in a tree.
