@@ -73,7 +73,7 @@
 
 
 
-## Daily To Do:
+## [Daily To Do:](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/timer.md)
 #### 25 apr
 - [x] Get some more bash coding done(1 hr)
 - [x] get 5th linux lecture done
