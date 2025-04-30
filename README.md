@@ -115,6 +115,12 @@
 - [x] Do algs and data test
 - [ ] mark p2t
 - [x] mark slgs and data
+#### 30 apr
+- [ ] mark p2t
+- [ ] compile list of topics in p2t to revise
+- [ ] email about physics time table
+- [ ] make sure you cancel wifi and energy
+
       
 
 
