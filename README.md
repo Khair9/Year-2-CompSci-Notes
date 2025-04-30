@@ -116,9 +116,9 @@
 - [ ] mark p2t
 - [x] mark slgs and data
 #### 30 apr
-- [ ] mark p2t
-- [ ] compile list of topics in p2t to revise
-- [ ] email about physics time table
+- [x] mark p2t
+- [x] compile list of topics in p2t to revise
+- [ ] email about physics time table (3pm)
 - [ ] make sure you cancel wifi and energy
 
       
