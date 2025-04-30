@@ -120,6 +120,9 @@
 - [x] compile list of topics in p2t to revise
 - [ ] email about physics time table (3pm)
 - [ ] make sure you cancel wifi and energy
+- [ ] revise p2t topics that need addressing
+- [ ] do the same for algs and data
+- [ ] then do p2t test
 
       
 
