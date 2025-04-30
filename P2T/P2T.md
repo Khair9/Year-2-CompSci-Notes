@@ -22,6 +22,8 @@
 
 [Useful Linux info](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/P2T/useful_linux.md)
 
+[basic C script](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/P2T/basicScriptC.C)
+
 
 #### Basic Bash Script
 ``` bash
