@@ -22,16 +22,17 @@
 <!-- countdown end -->
 <!-- countdown end -->
 <!-- countdown end -->
+<!-- countdown end -->
 
 
 ## May Exam breakdown:
 | Subject       | Time Left      | Percentage of Grade |
 |---------------|----------------|----------|
-| P2T           | in 2 days      | 50%      |
-| Alg & Data    | in 3 days      | 80%      |
-| OOSE          | in 13 days     | 60%      |
-| Econ          | in 15 days     | 50%      |
-| WAD           | in 20 days     | 40%      |
+| P2T           | in 1 days      | 50%      |
+| Alg & Data    | in 2 days      | 80%      |
+| OOSE          | in 12 days     | 60%      |
+| Econ          | in 14 days     | 50%      |
+| WAD           | in 19 days     | 40%      |
 
 
 [Whats already been done](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/marked.md)
