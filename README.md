@@ -123,7 +123,7 @@
 - [x] email about physics time table (3pm)
 - [ ] make sure you cancel wifi and energy
 - [x] revise p2t topics that need addressing
-- [ ] do the same for algs and data
+- [x] do the same for algs and data
 - [ ] then do p2t test
 
       
