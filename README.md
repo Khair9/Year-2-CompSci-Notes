@@ -126,6 +126,15 @@
 - [x] revise p2t topics that need addressing
 - [x] do the same for algs and data
 - [ ] then do p2t test
+#### 1 may
+- [x] finish p2t test
+- [x] mark p2t test
+- [ ] P2T TEST ------ 1:45
+- [x] make sure you cancel wifi and energy
+- [ ] Do any algs and data revision needed
+- [ ] do past paper and mark as you go along
+#### 2 may
+- [ ] ALG & DATA TEST -------
 
       
 
