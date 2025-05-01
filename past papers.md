@@ -2,6 +2,8 @@
 
 [comp Sci past papers](https://moodle.gla.ac.uk/course/view.php?id=21505)
 
+[pdf 2 .docx](https://www.adobe.com/acrobat/online/pdf-to-word.html)
+
 
 
 ## P2T
