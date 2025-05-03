@@ -136,7 +136,9 @@
 - [ ] Do any algs and data revision needed
 - [ ] do past paper and mark as you go along
 #### 2 may
-- [ ] ALG & DATA TEST ------- 9:07
+- [x] ALG & DATA TEST ------- 9:07
+#### 3 may
+- [ ] figure out what needs to be done for econ and oose
 
       
 
