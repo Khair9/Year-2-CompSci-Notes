@@ -139,6 +139,13 @@
 - [x] ALG & DATA TEST ------- 9:07
 #### 3 may
 - [ ] figure out what needs to be done for econ and oose
+- [ ] do a lecture econ
+- [ ] spend the rest of the day brushing up on java
+- **java specifics:**
+- [ ] get user input
+- [ ] create a reverser script
+- [ ] create a calculator
+               
 
       
 
