@@ -139,7 +139,7 @@
 - [x] ALG & DATA TEST ------- 9:07
 #### 3 may
 - [x] figure out what needs to be done for econ and oose
-- [ ] do a lecture econ
+- [x] do a lecture econ
 - [x] spend the rest of the day brushing up on java
 - **java specifics:**
 - [x] get user input
