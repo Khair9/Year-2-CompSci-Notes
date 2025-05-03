@@ -4,7 +4,7 @@ Econ is on the second half of the course (weeks 6-10)
 
 [Week 6 lecture 10](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/lecture%2010.md)
 
-[Week 7 lecture 11](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/lecture%2011.md)
+[Week 7 lecture 11,12,13](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/lecture%2011.md)
 
 
 ## Exam Info
