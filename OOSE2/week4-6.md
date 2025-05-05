@@ -44,3 +44,24 @@ In UML class diagrams, a dotted line with a hollow triangle arrow represents a r
 -  Concrete Class  
     - Implements all methods from interfaces/abstract classes.
     - Can be instantiated.
+ 
+![image](https://github.com/user-attachments/assets/31a837ac-bc80-4d12-91fe-fc70588376d4)
+
+##### Aggregation
+Key Features:
+ - It's a weaker form of composition.
+ - Represented by a hollow diamond at the “whole” (container) end of the line
+ - Implies a "has-a" relationship.
+   
+Example:
+ - A Team has multiple Players.
+ - Players can exist without a Team (e.g., be free agents).
+   
+```
+Team ◇───── Player
+```
+![image](https://github.com/user-attachments/assets/ab06f5c1-0155-46f4-af36-710ac425fb54)
+
+
+
+
