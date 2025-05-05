@@ -150,7 +150,7 @@
 ### 4 may
 - [x] oose lecture
 ### 5 may
-- [ ] econ lecture
+- [x] econ lecture
 - [ ] oose lecture
 - [ ] econ lecture
 - [ ] oose lectuer
