@@ -151,8 +151,8 @@
 - [x] oose lecture
 ### 5 may
 - [x] econ lecture
-- [ ] oose lecture
-- [ ] econ lecture
+- [x] oose lecture
+- [x] econ lecture
 - [ ] oose lectuer
 - [ ] econ lecture
 - [ ] java codeing
