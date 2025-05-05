@@ -6,6 +6,8 @@ Econ is on the second half of the course (weeks 6-10)
 
 [Week 7 lecture 11,12,13](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/lecture%2011.md)
 
+[lectures 14,15,16](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/Econ/Econ%20lecture%2014-16.md)
+
 
 ## Exam Info
  - Exam structure: solve 1 out of 2 provided problems, each problem is weighted at 100%.
