@@ -34,3 +34,43 @@ GDP does not include:
  - The health of nations
  - The distribution of income
 
+# Lecture 15 (Chapter 27) The Wealth of Nations and Economic Growth
+Economic growth is measured as:
+
+![image](https://github.com/user-attachments/assets/fe749126-5219-4240-a95a-6b3b43bc8dcb)
+
+Where:
+- ```gt = growth rate of real GDP per capita```
+- ```yt = real GDP per capita in time period t```
+
+##### Rule of 70
+_The rule of 70 approximates the length of time necessary for a growing variable to double_
+
+![image](https://github.com/user-attachments/assets/31a93e66-30e2-4647-ad25-3141ca4fcace)
+
+_Example: If real GDP per capita is growing at an annual growth rate of 3.5%, it will double in:_
+
+``` 70/3.5 = 20 ```
+
+##### value of GDP for any given year, 𝑦𝑡
+![image](https://github.com/user-attachments/assets/9a97989c-a4c9-4055-9d03-b904cf6afcf0)
+In the formula:
+- 𝑦0 is the value of GDP in the beginning year
+- 𝑦𝑡 is the value of GDP for the specific year in question
+- 𝑔𝑦 is the growth rate
+- t is the number of years after 𝑦0.
+
+
+ - **Institutions:** The “rules of the game” that structure economic incentives.
+ - Institutions of economic growth include:
+    - Property rights
+    - Honest government
+    - Political stability
+    - A dependable legal system
+    - Competitive and open markets
+
+      
+
+
+
+
