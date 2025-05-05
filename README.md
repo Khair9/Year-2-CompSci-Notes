@@ -147,7 +147,15 @@
 - [x] get user input
 - [x] create a reverser script
 - [x] create a calculator
-               
+### 4 may
+- [x] oose lecture
+### 5 may
+- [ ] econ lecture
+- [ ] oose lecture
+- [ ] econ lecture
+- [ ] oose lectuer
+- [ ] econ lecture
+- [ ] java codeing
 
       
 
