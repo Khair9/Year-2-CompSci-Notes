@@ -22,7 +22,7 @@ Three common ways:
 
  - **Real variables:** Variables such as real GDP that have been adjusted for changes in prices by using the same set of prices in all time periods.
 
-$GDP deflator = (Nominal GDP)/(Real GDP) * 100$
+``` GDP deflator = (Nominal GDP)/(Real GDP) * 100 ```
 
  - **Recession:** A significant, widespread decline in real GDP and employment.
  - **Business fluctuations** (or business cycles): Short-run movements in real GDP around its long-term trend.
