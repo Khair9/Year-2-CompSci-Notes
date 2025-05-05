@@ -6,5 +6,6 @@
 
 [Weeks 1-3](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/weeks%201to3.md)
 
+[Week 4-6](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/week4-6.md)
 
 [calc](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/calc.java)
