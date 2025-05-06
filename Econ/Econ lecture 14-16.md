@@ -69,6 +69,31 @@ In the formula:
     - A dependable legal system
     - Competitive and open markets
  
+# Lecture 16 (Chapter 30)Unemployment and Labor Force Participation
+ - **Unemployed workers:** Adults who do not have a job, but who are looking for work.
+ - **Unemployment rate:** The percentage of the labor force without a job.
+##### Criteria for being unemployed
+Someone is unemployed only if he or she is willing and able to work but cannot find a job.
+
+To be counted as unemployed, a person must meet these criteria:
+ - 16 years or older
+ - Not institutionalized (e.g., not in prison)
+ - A civilian
+ - Looking for work
+![image](https://github.com/user-attachments/assets/3187669e-4a00-4212-9fa3-f746210e4ac8)
+
+- **Labor force participation rate:** The percentage of adults in the labor force.
+![image](https://github.com/user-attachments/assets/f17ce711-da8e-44b8-b896-acb8328ffcbc)
+
+ - **Discouraged workers:** Workers who have given up looking for work but who would still like a job.
+ - **Frictional unemployment:** Short-term unemployment caused by the ordinary difficulties of matching employee to employer
+ - **Structural unemployment:** Persistent, long-term unemployment caused by long-lasting shocks or permanent features of an economy that make it more difficult for some workers to find jobs.
+ - **Union:** An association of workers that bargains collectively with employers over wages, benefits, and working conditions.
+ - **Employment at-will doctrine:** An employee may quit, and an employer may fire an employee at any time and for any reason. There are many exceptions to the at-will doctrine, but it is the most basic U.S. employment law.
+ - **Active labor market policies:** Policies such as work tests, job search assistance, and job retraining programs that focus on getting unemployed workers back to work.
+ - **Cyclical unemployment:** Unemployment correlated with the business cycle.
+ - **Natural unemployment rate:** The rate of structural plus frictional unemployment.
+
 
       
 
