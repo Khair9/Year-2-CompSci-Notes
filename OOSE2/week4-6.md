@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/767ba01d-2270-4d05-a2f7-38f1d348d1ce)![image](https://github.com/user-attachments/assets/1cd4d29d-be59-4a49-95df-20e1b164c4eb)
+
 # [4.1.1 uml diagrams](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/oose.md)
 Class diagrams in Java are a Blueprint or Model of the system that you are building
  - They can help you map out the design of a system
@@ -61,6 +63,57 @@ Example:
 Team ◇───── Player
 ```
 ![image](https://github.com/user-attachments/assets/ab06f5c1-0155-46f4-af36-710ac425fb54)
+
+
+# 4.1.2 observer design pattern 
+already done in the design pattern folders
+
+# 4.1.3 mocking
+### what is local unit testing
+cal unit testing refers to the practice of running unit tests on your local development machine (as opposed to running them in a shared environment like a CI/CD pipeline or staging server).
+
+- Unit Testing
+  - Tests individual components or functions of code in isolation.
+  - Ensures that each "unit" of logic behaves as expected.
+
+- Local Testing
+   - Performed on your own machine (laptop/desktop).
+   - Usually done before pushing code to version control.
+- continous integration
+   - At regular intervals or on commit run unit test
+   - Your change may affect another method, class or package
+   - Speed of tests
+   - Early feedback on your change
+
+### Doubling
+ -  A **test double** is a general term for any object that replaces a real component in a test to control behavior or observe interactions.
+ - what to double:
+    - Read or write to a file
+    - Read or write to a database
+    - Calls to a web service
+    - Calls to another application
+    - Calls to an external library
+   
+#### mocking **why**
+   - Speed up continuous integration testing
+   - Faster and earlier feedback
+   - Remove dependencies on input and output
+   - Remove dependencies on external applications that could be down or slow
+   - Code of the application does not need to change
+#### mocking spy v mock
+Both can be used to mock methods or fields. The difference is that in mock, you are creating a complete mock or fake object while in spy, there is the real object and you just spying or stubbing specific methods of it.
+
+#### mocking - challenges
+ - **Code coverage** – How much code is exercised
+ - **Case coverage** – How many use cases are covered by the test suite
+ - Null test, yet validation layer prevents
+- 100% code coverage does not guarantee 100% case coverage
+
+
+
+
+
+
 
 
 
