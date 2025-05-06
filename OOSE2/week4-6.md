@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/767ba01d-2270-4d05-a2f7-38f1d348d1ce)![image](https://github.com/user-attachments/assets/1cd4d29d-be59-4a49-95df-20e1b164c4eb)
-
 # [4.1.1 uml diagrams](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/oose.md)
 Class diagrams in Java are a Blueprint or Model of the system that you are building
  - They can help you map out the design of a system
@@ -108,6 +106,8 @@ Both can be used to mock methods or fields. The difference is that in mock, you 
  - **Case coverage** – How many use cases are covered by the test suite
  - Null test, yet validation layer prevents
 - 100% code coverage does not guarantee 100% case coverage
+
+
 
 
 
