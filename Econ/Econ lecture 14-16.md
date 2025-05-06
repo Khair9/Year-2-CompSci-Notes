@@ -68,6 +68,7 @@ In the formula:
     - Political stability
     - A dependable legal system
     - Competitive and open markets
+ 
 
       
 
