@@ -157,6 +157,11 @@
 - [ ] oose lectuer
 - [ ] econ lecture
 - [ ] java codeing
+### 6 may
+- [ ] oose lectuer
+- [ ] econ lecture
+- [ ] java codeing
+- [ ] start heading to airport at 6pm
 
       
 
