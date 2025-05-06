@@ -108,7 +108,7 @@ Both can be used to mock methods or fields. The difference is that in mock, you 
 - 100% code coverage does not guarantee 100% case coverage
 
 
-
+### [A mocking script](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/mocking.java)
 
 
 
