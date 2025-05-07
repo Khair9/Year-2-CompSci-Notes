@@ -165,8 +165,9 @@
 - [ ] java codeing
 - [x] start heading to airport at 6pm
 ### 7 may
-- [ ] oose lecture
-- [ ] econ lecture
+- [x] oose lecture
+- [x] econ lecture
+- [x] econ lecture completed those lectures focus on oose
 - [ ] oose lecture
 - [ ] oose lecture
       
