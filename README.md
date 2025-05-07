@@ -163,8 +163,12 @@
 - [x] econ lecture
 - [x] econ lecture
 - [ ] java codeing
-- [ ] start heading to airport at 6pm
-
+- [x] start heading to airport at 6pm
+### 7 may
+- [ ] oose lecture
+- [ ] econ lecture
+- [ ] oose lecture
+- [ ] oose lecture
       
 
 
