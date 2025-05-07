@@ -1,4 +1,4 @@
-# [High-Level vs. Low-Level Modules in Software Design]()
+# [High-Level vs. Low-Level Modules in Software Design](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/week4-6.md)
 
 In software architecture, the terms **high-level** and **low-level modules** describe different layers of abstraction.
 
