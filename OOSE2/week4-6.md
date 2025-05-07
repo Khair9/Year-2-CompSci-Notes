@@ -140,7 +140,7 @@ Avoid duplication, if you understand it you will use it
     - Clients should not be forced to depend on interfaces they do not use.
     - Prefer small, specific interfaces over large, general ones.
     - Leads to more modular and flexible code.
- - Dependency Inversion Principle (DIP)
+ - [Dependency Inversion Principle (DIP)](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/explaination456.md)
     - High-level modules should not depend on low-level modules. Both should depend on abstractions.
     - Reduces coupling between software modules.
     - Use dependency injection to pass in dependencies rather than hardcoding them.
