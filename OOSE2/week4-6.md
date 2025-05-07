@@ -153,7 +153,66 @@ Avoid duplication, if you understand it you will use it
 - Focus on concrete scenarios
 - Design is evolutionary
 
+#### DRY
+dont repeat yourself
+
+#### touch it once
+- Don’t leave comments to return
+- You might not go back
+- You will have a learning curve to get back up to speed
+
+
+
 ### Refactoring
+#### Style guides
+- Naming conventions camelCase, PascalCase, snake_case
+- Size of methods and classes
+- Consistency
+- assertEquals assertSame
+- Easier to read consistent code
+
+  #### refactoring process
+  <img src="https://github.com/user-attachments/assets/c5544e1c-9c7b-4764-9844-13d890a40f47" alt="ljandocjnoad" width="500" >
+
+
+  
+#### smells
+- Duplicate Code
+- Long method or class
+- Variables and parameters
+- Shotgun surgery
+- Parallel inheritance hierarchies
+- Switch statements or if
+- Refused bequest
+- Alternative classes with different interfaces
+- Middle man
+- Inappropriate intimacy
+- Data class
+#### types of refactoring
+- Fixing Method
+- Moving Functionality
+- Organising Data
+- Simplifying method
+- Simplifying conditions
+- Reorganise classes
+
+#### rules of refactoring
+- Your methods and functions should do one thing
+- No duplication, problems have to be fixed several times
+- Consistency of style
+- Later tend to be never
+- Don’t always comment
+- Remove commented out code, version control has a history
+
+  
+
+
+
+  
+
+
+
+
 
 
 
