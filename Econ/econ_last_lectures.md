@@ -92,6 +92,17 @@ The intersection of the AD and LRAS curves shows the long-run equilibrium of the
     - Improvements in productivity or lower input prices shift it right (↑ supply).
     - Expectations of future inflation can also shift SRAS, as firms adjust their behavior now.
 
+--------------------------
+
+# A bit about monetary and fiscal policy in relation to AD-AS
+
+- **Monetary Polcicy** --> Monetary policy is the action a central bank or a government can take to influence how much money is in a country's economy and how much it costs to borrow.
+- **Central bank tools**
+   -  Increase the rate of growth of the money supply
+   - Reduce interest rates and encourage more borrowing
+
+- **Fiscal policy:** Federal government policy on taxes, spending, and borrowing that is designed to influence business fluctuations.
+
 
 
 
