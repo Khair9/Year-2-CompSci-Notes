@@ -110,8 +110,50 @@ Both can be used to mock methods or fields. The difference is that in mock, you 
 
 ### [A mocking script](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/mocking.java)
 
+-----------------------
 
+# Week 5
+##  5.1.1
+the decorator design pattern done in a seperate file
 
+## 5.1.2 Refactoring
+
+**Refactoring** is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+
+### Clean code 
+|positives|
+|---------|
+|Easier to start and continue|
+Easier to follow
+Better for team onboarding
+Most time spent enhancing code, adding new features
+Avoid duplication, if you understand it you will use it
+
+#### S.O.L.I.D.
+ - Single Responsibility Principle (SRP)
+    - A class/method should have one and only one reason to change, meaning that a class should have only one job.
+ - Open-Closed Principle (OCP)
+    - You should be able to add new functionality without altering existing code.
+ - Liskov Substitution Principle (LSP)
+    - Objects of a superclass should be replaceable with objects of its subclasses without breaking the application.
+ - Interface Segregation Principle (ISP)
+    - Clients should not be forced to depend on interfaces they do not use.
+    - Prefer small, specific interfaces over large, general ones.
+    - Leads to more modular and flexible code.
+ - Dependency Inversion Principle (DIP)
+    - High-level modules should not depend on low-level modules. Both should depend on abstractions.
+    - Reduces coupling between software modules.
+    - Use dependency injection to pass in dependencies rather than hardcoding them.
+
+#### Domain Name (the names of stuff i think, the lecture isnt very clear here)
+- Make the implicit explicit
+- Cultivate a shared language
+- Learning never stops
+- Explore multiple models
+- Focus on concrete scenarios
+- Design is evolutionary
+
+### Refactoring
 
 
 
