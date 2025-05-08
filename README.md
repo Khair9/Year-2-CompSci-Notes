@@ -172,8 +172,10 @@
 - [ ] oose lecture
 - [ ] oose lecture
 ### 8 may 
-- [ ] oose lecture
-- [ ] oose lecture
+- [x] oose lecture
+- [x] oose lecture
+- [x] oose lecture
+- [x] oose lecture
 - [ ] oose lecture
       
 
