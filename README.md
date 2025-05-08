@@ -176,7 +176,17 @@
 - [x] oose lecture
 - [x] oose lecture
 - [x] oose lecture
-- [ ] oose lecture
+- [x] oose lecture
+- last oose done
+### 9 may
+- [ ] go to embassy appointment
+- [ ] got to the thing across the street for it
+- [ ] oose test
+- [ ] econ test
+- [ ] mark oose
+- [ ] mark econ
+- [ ] compile list of topic threat for oose
+- [ ] compile list of topic threat for econ
       
 
 
