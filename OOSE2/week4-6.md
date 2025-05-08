@@ -205,7 +205,12 @@ dont repeat yourself
 - Remove commented out code, version control has a history
 
   
+--------------------
 
+# Week 6
+this was reading week with guest lecturers
+
+# Week 7
 
 
   
