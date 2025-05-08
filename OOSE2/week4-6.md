@@ -210,11 +210,87 @@ dont repeat yourself
 # Week 6
 this was reading week with guest lecturers
 
+--------------------
+
 # Week 7
+## 7.1.2 Design Principles
+no new info just crap about planning
 
+## 7.2.1 singleton design pattern
+done elsewhere
+----------------------
+# Week 8
+## 8.1.1 state design pattern
+## 8.1.2 iterator and composite design pattern
 
+-----------------------
+# Week 9
+## 9.1.1 factory design pattern
+## 9.1.2 requirements gathering
+### Scope
+The scope establishes the high level description of the system you are building
+ - Setting boundaries
+ - Business Benefits
+ - Stakeholders
+### Forming requirements
+Build on your scoping and identify decision makers first – who decides on what you do?
+ - Identify the stakeholders
+ - Who has the knowledge
+ - Tie back development and testing to requirements
+### Prototype
+ - Prototypes are not iterations of the software, the material used to build them is not well engineered, secure, or reliable and must not creep into your final software deployment (allowing this is a major source of bugs)
+**We can try to build prototypes when:**
+- The requirements are unknown or unclear
+- The technology is unknown
+- It is a new team
+- Need early knowledge and early feedback
+##### Prototypes can be:
+- Low fidelity/non-functional: A drawing of a user interface
+- Low fidelity/functional: A powerpoint slideshow with buttons built in to regions of the slide
+- Hi-fidelity/non-functional: A webpage showing a proposed UI 
+- Hi-fidelity/functional: An early version of the software with no persistence between sessions
+
+### Questions
+- Likert Scale
+- Categorical
+- True/False
+- Closed question
+- Open Ended
+
+(this is what a likert scale is)
+
+![image](https://github.com/user-attachments/assets/54a92707-655a-4a68-8838-91a979851731)
+
+#### survey
+
+A set list of questions,
+
+benefits including:| Drawbacks:
+------------------|------------
+Easy to compare with other participants|No follow-up for lack of detail
+Consistency | No interview/less accountability
+Large scale
+If they are not open questions, can look at statistics
+If that helps!
+
+#### Structured Interview 
+benefits|Drawbacks
+------|------
+Consistency in the responses|No follow-ups to compensate for lack of detail in the questions
+Allows for easy comparison with other participants|It’s boring!
+Means the Interviewer does no need to be skilled
+
+#### Un-Structured Interview
+pretty obvious benefits and drawback cba to note
+
+#### Semi-Structured Interview
+A list of set questions or a topic guide with areas you want tot ouch on with follow-up unscripted questions that depend on answers with the advantages that they:
   
 
+#### Group Meetings – Focus Group
+Focus groups are small group discussion sessions with 2 facilitators (1 to lead discussion and 1 to take notes/look for follow up opportunities and 3-8 stakeholders
+
+#### user stories
 
 
 
