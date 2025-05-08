@@ -171,6 +171,10 @@
 - [x] econ lecture completed those lectures focus on oose
 - [ ] oose lecture
 - [ ] oose lecture
+### 8 may 
+- [ ] oose lecture
+- [ ] oose lecture
+- [ ] oose lecture
       
 
 
