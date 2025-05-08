@@ -292,6 +292,42 @@ Focus groups are small group discussion sessions with 2 facilitators (1 to lead 
 
 #### user stories
 
+---------------------------
+# week 10
+## 10.1.1 adaptar design pattern
+done in the design pattern file
+
+## 10.1.2 Navigating Codebases
+### Enviroments
+- **Local development environment** – Local to your computer to develop and test
+- **Development** – describes and area to test features, less stable
+- **System Integration Test (SIT)** - describes as the area to test features work together and integrate with other applications 
+- **User Acceptance Test (UAT)** - describes as the area that user of the application test the system
+- **Performance Test** - describes as the area performance tests are performed to mimic production and at peak levels
+- **Scratch/Stage** – A test environment prior to production.
+- **Live or Production** - describes as the area the application runs and is used by the end users and integrates with other applications
+![image](https://github.com/user-attachments/assets/4adb663c-a466-448c-9698-dcaac89a9610)
+![image](https://github.com/user-attachments/assets/8e8da2e7-b580-4df4-9117-76777c025486)
+### What makes a good code commit:
+- The change links to one requirement, item of work
+- The change is self contained and can work on its own
+- The change is not too large to be difficult to review
+- A change is not so small as to require other small changes
+- The change can go across several files and classes, but if significant for a file or class maybe better on it own
+- The change assess impact on the rest of the codebase
+- Consider older versions of applications go live later e.g. rest services
+<Br>
+All branched changes must be merged back to the next branch and or master
+
+
+
+
+
+
+
+
+
+
 
 
 
