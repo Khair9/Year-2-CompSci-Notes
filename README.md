@@ -180,8 +180,8 @@
 - [x] oose lecture
 - last oose done
 ### 9 may
-- [ ] go to embassy appointment
-- [ ] got to the thing across the street for it
+- [x] go to embassy appointment
+- [x] got to the thing across the street for it
 - [ ] oose test
 - [ ] econ test
 - [ ] mark oose
