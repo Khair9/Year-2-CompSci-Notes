@@ -189,6 +189,14 @@
 - [ ] mark econ
 - [ ] compile list of topic threat for oose
 - [ ] compile list of topic threat for econ
+- [x] adaptar pattern
+- [x] send email to lexi
+### 10 may
+- [x] oose test
+- [x] mark oose
+- [x] compile list of topic threat for oose
+- [x] code observer pattern 
+- [x] revise uml 
       
 
 
