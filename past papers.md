@@ -22,7 +22,43 @@ Paper|Percentage(60 marks)|Time(1:30hr)|Review
 2021|82|2:00|<img width="500" alt="image" src="https://github.com/user-attachments/assets/cba85039-348d-469c-8d8d-d07f101407ec" />
 
 
+## OOSE
+Paper|Percentage(50 marks)|Time(1:30hr)|Review
+-----|----------|-----|-------
+August 2022 (resit)|70% (28/40)| overtime| Topics of threat: **design spec class diagrams and uml** didnt do question 2 10 marks because there was only the paper with the soloutions which made it impossible to do the question
 
+
+
+
+
+
+#### design spec (oose)
+- The software doesn't do something that the product specification says it should do.
+- The software does something that the product specification says it shouldn't do.
+- The software does something that the product specification doesn't mention.
+- The software doesn't do something that the product specification doesn't mention but should.
+- The software is difficult to understand, hard to use, slow, or—in the software tester's eyes—will be viewed by the end user as just plain not right.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------
 Based on the marks you lost in the test, here are the main topics I recommend you focus on for revision:
 
 Algorithm Analysis (Big-O, Recurrences):
