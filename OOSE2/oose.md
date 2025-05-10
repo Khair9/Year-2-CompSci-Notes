@@ -8,4 +8,6 @@
 
 [Week 4-10](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/week4-6.md)
 
+[UML/Class Diagrams](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/uml.md)
+
 [calc](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/OOSE2/calc.java)
