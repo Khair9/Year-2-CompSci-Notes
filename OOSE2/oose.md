@@ -44,4 +44,15 @@ At its core, this topic is about how software applications store and manage data
              - Error Handling: If one item in a batch fails to save, you need a strategy to handle it. Does the whole batch fail? Do you try to save the others? This can be more complex.
              - Memory Usage: The application might need to hold more data in memory before sending the batch.
              - Delayed Feedback: You might not get immediate confirmation for each individual item until the whole batch is processed.
- 
+             -
+
+------------------------- 
+### Extensibility
+Extensibility is a software design principle that refers to the ease with which a system or component can be expanded or enhanced to accommodate future growth or changes—such as adding new features or modifying existing behavior—without having to rewrite existing code.
+
+##### In Java (and OOP in general), extensibility often involves:
+ - **Inheritance:** Subclasses can extend and override parent class behavior.
+ - **Interfaces and Abstract Classes:** Allow multiple implementations and easy plug-in of new behavior.
+ - **Composition over Inheritance:** Combining objects to extend behavior without modifying original code.
+ - **Design Patterns:** Like Strategy, Decorator, and Observer, which support flexible and extendable systems.
+
