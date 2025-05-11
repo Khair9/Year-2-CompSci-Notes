@@ -40,6 +40,16 @@ may 2023|58% (29/50)| overtime|Q1c bul commits, Q2a coupling, umls of every stra
 - The software doesn't do something that the product specification doesn't mention but should.
 - The software is difficult to understand, hard to use, slow, or—in the software tester's eyes—will be viewed by the end user as just plain not right.
 
+#### Coupling
+Type of coupling|Worst to Best coupling|Description
+----------------|---------|-----------
+Content| worst | One module modifies or relies on the internal workings of another.
+Common| 2nd|Multiple modules share the same global data. Changes in that data affect all modules that share it.
+External|3rd|Modules share externally imposed formats, protocols, or device interfaces. Example: Two modules interact through a shared file format.
+Control|4th|One module controls the flow of another by passing control flags or logic. Example: Passing a flag to tell the other module what to do.
+Stamp(Data-Structured)|5th|Modules share a composite data structure and only use part of it. Example: Passing an object when only a field is needed.
+Data Coupling |Best among direct couplings|Modules share data through parameters (only what's needed is passed). Promotes clarity and separation of concerns.
+No Coupling|Ideal in some contexts|Modules are entirely independent and unaware of each other. Often seen in loosely coupled systems like microservices.
 
 
 
