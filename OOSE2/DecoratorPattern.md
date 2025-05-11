@@ -130,3 +130,4 @@ Simple Coffee, Milk, Sugar, Sugar -> Cost: $7.5
 
 
 ```
+<img width="789" alt="image" src="https://github.com/user-attachments/assets/4b617417-ad32-48a9-8e69-186fb1bb9d14" />
