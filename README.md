@@ -206,7 +206,7 @@
 - [x] Q2a coupling
 - [x] umls of every strategy
 - [x] factory design pattern
-- [ ] extensibility
+- [x] extensibility
 - [x] read over every design strategy
 - [ ] do a oose test but time and mark as you go along
       
