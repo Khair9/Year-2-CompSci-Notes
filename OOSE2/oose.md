@@ -56,3 +56,33 @@ Extensibility is a software design principle that refers to the ease with which 
  - **Composition over Inheritance:** Combining objects to extend behavior without modifying original code.
  - **Design Patterns:** Like Strategy, Decorator, and Observer, which support flexible and extendable systems.
 
+##### Using Composition
+``` java
+class Engine {
+    void start() {
+        System.out.println("Engine starts");
+    }
+}
+
+class Car {
+    private Engine engine; // Car *has an* Engine
+
+    public Car() {
+        this.engine = new Engine(); // Composition: Car is composed of Engine
+    }
+
+    void start() {
+        engine.start(); // Delegating work to the engine
+        System.out.println("Car is starting");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Car car = new Car();
+        car.start();
+    }
+}
+
+```
+
