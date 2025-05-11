@@ -64,6 +64,9 @@ public class Main {
 }
 ```
 
+<img width="1083" alt="image" src="https://github.com/user-attachments/assets/e166eede-d94a-4c38-b16b-234195dfe09d" />
+
+
 ```
 Adapter converts European socket (220V) to US socket (110V).
 US plug inserted into US socket (110V).
