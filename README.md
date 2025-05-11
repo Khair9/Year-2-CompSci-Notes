@@ -197,7 +197,18 @@
 - [x] mark oose
 - [x] compile list of topic threat for oose
 - [x] code observer pattern 
-- [x] revise uml 
+- [x] revise uml
+### 11 may
+- [x] oose test
+- [x] mark
+- [x] compile list
+- [ ] Q1c bul commits
+- [ ] Q2a coupling
+- [ ] umls of every strategy
+- [ ] factory design pattern
+- [ ] extensibility
+- [ ] read over every design strategy
+- [ ] do a oose test but time and mark as you go along
       
 
 
