@@ -1,4 +1,5 @@
 # [Decorator Pattern](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/OOSE2/Design%20Patterns.md)
+#### [page with uml & more](https://refactoring.guru/design-patterns/decorator)
 
 **What:**
 The Decorator Pattern is a structural design pattern that allows behavior to be added to individual objects, dynamically, without modifying the code of the original class.
