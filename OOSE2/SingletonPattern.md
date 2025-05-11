@@ -21,22 +21,22 @@ The Singleton Pattern is a creational design pattern that ensures a class has on
 ```java
     // Logger.java
     public class Logger {
-    private static Logger instance;
-
-    // Private constructor prevents instantiation
-    private Logger() {}
-
-    // Public method to provide a single instance (Lazy Initialization)
-    public static Logger getInstance() {
-        if (instance == null) {
-            instance = new Logger();
+        private static Logger instance;
+    
+        // Private constructor prevents instantiation
+        private Logger() {}
+    
+        // Public method to provide a single instance (Lazy Initialization)
+        public static Logger getInstance() {
+            if (instance == null) {
+                instance = new Logger();
+            }
+            return instance;
         }
-        return instance;
-    }
-
-    public void log(String message) {
-        System.out.println("[LOG]: " + message);
-    }
+    
+        public void log(String message) {
+            System.out.println("[LOG]: " + message);
+        }
    }
 ```
 **Step 2: Using the Singleton Pattern:**
