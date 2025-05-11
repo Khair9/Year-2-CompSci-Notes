@@ -203,11 +203,11 @@
 - [x] mark
 - [x] compile list
 - [x] Q1c bul commits
-- [ ] Q2a coupling
-- [ ] umls of every strategy
-- [ ] factory design pattern
+- [x] Q2a coupling
+- [x] umls of every strategy
+- [x] factory design pattern
 - [ ] extensibility
-- [ ] read over every design strategy
+- [x] read over every design strategy
 - [ ] do a oose test but time and mark as you go along
       
 
