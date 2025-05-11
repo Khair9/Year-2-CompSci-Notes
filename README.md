@@ -202,7 +202,7 @@
 - [x] oose test
 - [x] mark
 - [x] compile list
-- [ ] Q1c bul commits
+- [x] Q1c bul commits
 - [ ] Q2a coupling
 - [ ] umls of every strategy
 - [ ] factory design pattern
