@@ -121,4 +121,5 @@ public class Main {
     }
 }
 ```
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/1e1e99a9-d7c8-42f5-afc5-ca98156e19ff" />
 
