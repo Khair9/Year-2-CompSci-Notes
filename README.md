@@ -216,10 +216,12 @@
 - [x] mocking youtube
 - [x] mocking any further reading or practcing needed
 - [x] finish oose test as before
-- [ ] go over coupling types
-- [ ] go over design patterns and their uml
-- [ ] look through any other notes
-- [ ] **Do test at 13:45 rankine room 639** 
+- [x] go over coupling types
+- [x] go over design patterns and their uml
+- [x] look through any other notes
+- [x] **Do test at 13:45 rankine room 639**
+- [x] go over revision lecture and make notes
+- [ ] run through mock exam and mark while answering questions
       
 
 
