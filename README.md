@@ -215,7 +215,7 @@
 - [x] composite pattern
 - [x] mocking youtube
 - [x] mocking any further reading or practcing needed
-- [ ] finish oose test as before
+- [x] finish oose test as before
 - [ ] go over coupling types
 - [ ] go over design patterns and their uml
 - [ ] look through any other notes
