@@ -210,6 +210,16 @@
 - [x] extensibility
 - [x] read over every design strategy
 - [ ] do a oose test but time and mark as you go along
+### 12 may
+- [ ] iterator pattern
+- [ ] composite pattern
+- [ ] mocking youtube
+- [ ] mocking any further reading or practcing needed
+- [ ] finish oose test as before
+- [ ] go over coupling types
+- [ ] go over design patterns and their uml
+- [ ] look through any other notes
+- [ ] **Do test at 13:45 rankine room 639** 
       
 
 
