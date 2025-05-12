@@ -211,10 +211,10 @@
 - [x] read over every design strategy
 - [ ] do a oose test but time and mark as you go along
 ### 12 may
-- [ ] iterator pattern
-- [ ] composite pattern
-- [ ] mocking youtube
-- [ ] mocking any further reading or practcing needed
+- [x] iterator pattern
+- [x] composite pattern
+- [x] mocking youtube
+- [x] mocking any further reading or practcing needed
 - [ ] finish oose test as before
 - [ ] go over coupling types
 - [ ] go over design patterns and their uml
