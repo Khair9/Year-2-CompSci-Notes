@@ -27,6 +27,7 @@ Paper|Percentage(50 marks)|Time(1:30hr)|Review
 -----|----------|-----|-------
 August 2022 (resit)|70% (28/40)| overtime| Topics of threat: **design spec class diagrams and uml** didnt do question 2 10 marks because there was only the paper with the soloutions which made it impossible to do the question
 may 2023|58% (29/50)| overtime|Q1c bul commits, Q2a coupling, umls of every strategy, factory design pattern, extensibility
+2024|61 (24/40)| ontime| mocking, testing
 
 
 
