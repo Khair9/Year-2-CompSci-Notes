@@ -85,4 +85,7 @@ public class Main {
 }
 
 ```
+-------------------
+### mocking
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/74021584-86a2-4e9e-bea7-4bcbe9638130" />
 
