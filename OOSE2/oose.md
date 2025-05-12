@@ -89,3 +89,12 @@ public class Main {
 ### mocking
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/74021584-86a2-4e9e-bea7-4bcbe9638130" />
 
+-----------------
+### A/B testing
+A/B testing is a method of comparing two versions of something—like a webpage, email, app feature, or ad—to determine which one performs better based on a specific metric, such as click-through rate, conversion rate, or engagement.
+
+- A/B testing is an experiment where:
+- Version A is the control (the current or default version).
+- Version B is the variant (a new version with a change).
+- You randomly show some users version A and some users version B, then measure which one achieves a desired outcome better (e.g., higher click rate, better performance, fewer errors).
+
