@@ -35,6 +35,7 @@
 <!-- countdown end -->
 <!-- countdown end -->
 <!-- countdown end -->
+<!-- countdown end -->
 
 
 ## May Exam breakdown:
@@ -43,8 +44,8 @@
 | P2T           | done           | 50%      |
 | Alg & Data    | done           | 80%      |
 | OOSE          | done           | 60%      |
-| Econ          | in 2 days      | 50%      |
-| WAD           | in 7 days      | 40%      |
+| Econ          | in 1 days      | 50%      |
+| WAD           | in 6 days      | 40%      |
 
 
 [Whats already been done](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/marked.md)
