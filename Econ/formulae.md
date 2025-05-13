@@ -3,7 +3,24 @@
 ```html
 <img width="324" alt="image" src="" />
 ```
+### Chaptar 14
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8fc65f80-28c1-4fbc-b215-7b16ce308d17" />
+
+### Chaptar 15
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/fe749126-5219-4240-a95a-6b3b43bc8dcb" />
+<Br>
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/31a93e66-30e2-4647-ad25-3141ca4fcace" />
+<Br>
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/9a97989c-a4c9-4055-9d03-b904cf6afcf0" />
+
+In the formula:
+- 𝑦0 is the value of GDP in the beginning year
+- 𝑦𝑡 is the value of GDP for the specific year in question
+- 𝑔𝑦 is the growth rate
+- t is the number of years after 𝑦0.
+
+---------------------
 ### Chaptar 17
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/ffa145ed-4e30-4bd4-8cae-f73db89a26a1" />
 <Br>
