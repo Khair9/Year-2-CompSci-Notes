@@ -19,7 +19,7 @@ Econ is on the second half of the course (weeks 6-10)
  - For graphing: label everything clearly, know what goes on each axis, know what each function is.
  - Explain everything that you are doing in detail – why did the curve shift in this particular way? Why is the solution to the problem using this particular formula? Etc. 
  - And overall, do not overthink your solutions. Economics is quite a logical and common-sense discipline.
-
+------------------
  - Be prepared: go through your lecture notes, workshops, and tutorials – they will all be helpful. Pay special attention to the AD-AS topics, and do not neglect going over weeks 6 and 7, especially their workshop related materials.
 - You have enough time to think carefully and tackle the questions, so be calm.
 -  Carefully read all the questions before choosing. Do not
