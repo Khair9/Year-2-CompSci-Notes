@@ -39,9 +39,11 @@ So, basically saying if the actual intrest rates are higher than expected then i
 
 ![image](https://github.com/user-attachments/assets/7bbd3c87-5a66-439b-abf8-7444612f0c6d)
 
-# Lecture 18 (Chapter 32)Business Fluctuations: Aggregate Demand and Supply
+# Lecture 18 (Chapter 32) Business Fluctuations: Aggregate Demand and Supply
 
 - Aggregate Demand (AD) Curve:
+   - $\vec{M}$ + $\vec{v}$ = AD curve
+   - $\vec{M}$ + $\vec{v}$ = _Inflation + Real growth_
    - Shows the total quantity of goods and services demanded across the economy at different price levels.
    - Slopes downward because:
        - As prices fall, real wealth increases (wealth effect).
