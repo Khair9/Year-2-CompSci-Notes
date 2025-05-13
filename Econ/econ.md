@@ -18,7 +18,13 @@ Econ is on the second half of the course (weeks 6-10)
  - Revise using our workshops and tutorial problem sets.
  - For graphing: label everything clearly, know what goes on each axis, know what each function is.
  - Explain everything that you are doing in detail – why did the curve shift in this particular way? Why is the solution to the problem using this particular formula? Etc. 
-And overall, do not overthink your solutions. Economics is quite a logical and common-sense discipline. 
+ - And overall, do not overthink your solutions. Economics is quite a logical and common-sense discipline.
+
+ - Be prepared: go through your lecture notes, workshops, and tutorials – they will all be helpful. Pay special attention to the AD-AS topics, and do not neglect going over weeks 6 and 7, especially their workshop related materials.
+- You have enough time to think carefully and tackle the questions, so be calm.
+-  Carefully read all the questions before choosing. Do not
+solve them for wrong models!
+- Do not try to solve more than 1 question, otherwise, the marking team will choose which of the two questions to check at random.
 
 ------------------------
 ### Utilitarianism
