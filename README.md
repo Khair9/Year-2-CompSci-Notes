@@ -226,7 +226,10 @@
 ### 13 may
 - [x] run through mock exam and mark while answering questions
 - [ ] find more exams to do
-- [ ] figure out what to revise
+- [x] figure out what to revise
+- [ ] figure out if i can use a calculator in the exam
+- [ ] compile a list of all the formulae needed
+- [ ] 
       
 
 
