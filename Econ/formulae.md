@@ -23,4 +23,7 @@
 <Br>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7bbd3c87-5a66-439b-abf8-7444612f0c6d" />
 
-### Chaptar 18
+-------------------
+
+### Chaptar 18 as/ad 
+(no formulae)
