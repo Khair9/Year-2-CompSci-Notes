@@ -223,6 +223,10 @@
 - [x] **Do test at 13:45 rankine room 639**
 - [x] go over revision lecture and make notes
 - [ ] run through mock exam and mark while answering questions
+### 13 may
+- [x] run through mock exam and mark while answering questions
+- [ ] find more exams to do
+- [ ] figure out what to revise
       
 
 
