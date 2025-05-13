@@ -69,7 +69,7 @@ In the formula:
     - A dependable legal system
     - Competitive and open markets
  
-# Lecture 16 (Chapter 30)Unemployment and Labor Force Participation
+# Lecture 16 (Chapter 30) Unemployment and Labor Force Participation
  - **Unemployed workers:** Adults who do not have a job, but who are looking for work.
  - **Unemployment rate:** The percentage of the labor force without a job.
 ##### Criteria for being unemployed
