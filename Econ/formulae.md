@@ -7,6 +7,8 @@
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/8fc65f80-28c1-4fbc-b215-7b16ce308d17" />
 
+---------------------
+
 ### Chaptar 15
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/fe749126-5219-4240-a95a-6b3b43bc8dcb" />
 <Br>
@@ -20,7 +22,18 @@ In the formula:
 - 𝑔𝑦 is the growth rate
 - t is the number of years after 𝑦0.
 
+-----------------
+
+### Chapter 16
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3187669e-4a00-4212-9fa3-f746210e4ac8" />
+
+- **Labor force participation rate:** The percentage of adults in the labor force.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f17ce711-da8e-44b8-b896-acb8328ffcbc" />
+
 ---------------------
+
 ### Chaptar 17
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/ffa145ed-4e30-4bd4-8cae-f73db89a26a1" />
 <Br>
