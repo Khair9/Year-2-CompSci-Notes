@@ -58,4 +58,12 @@ node	and
 - could	be	a	database,	an	index,	a	flat	file
   
 ## Lecture 2 - Development Environment 
-- 
+- It	is	good	Software	Engineering	practice	to:	
+- Use	a	Version	Control	System		
+- e.g.	Git
+- Use	a	Package	Manager		
+- e.g.	pip	
+- Use	a	Virtual	Environment		
+- e.g.	Anaconda	
+- Use	an	Integrated	Development	Environment		
+- e.g.	PyCharm,	IDLE	
