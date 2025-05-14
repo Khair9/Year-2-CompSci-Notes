@@ -1,7 +1,5 @@
-###### [lectures 1-5]()
-# lecture 1 
-# WAD Lectures
-## Lecture 1 - introduction
+###### [lectures 1-5](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/wad.md)
+# Lecture 1 - introduction
 ### High level system architecture
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/cf7030ba-652f-44b3-8eb4-e708e68b7652" />
 
@@ -50,13 +48,15 @@ node	and
 - needs	to	be	scalable	and	reliable
 - could	be	a	database,	an	index,	a	flat	file
   
-## Lecture 2 - Development Environment 
+# Lecture 2 - Development Environment 
 - It	is	good	Software	Engineering	practice	to:	
 - Use	a	Version	Control	System		
-- e.g.	Git
+   - `e.g.	Git`
 - Use	a	Package	Manager		
-- e.g.	pip	
+   - `e.g.	pip	`
 - Use	a	Virtual	Environment		
-- e.g.	Anaconda	
+   - `e.g.	Anaconda`
 - Use	an	Integrated	Development	Environment		
-- e.g.	PyCharm,	IDLE	
+   - `e.g.	PyCharm,	IDLE`
+
+  
