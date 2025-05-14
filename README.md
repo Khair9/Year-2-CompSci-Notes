@@ -226,11 +226,15 @@
 - [ ] run through mock exam and mark while answering questions
 ### 13 may
 - [x] run through mock exam and mark while answering questions
-- [ ] find more exams to do
+- [x] find more exams to do
 - [x] figure out what to revise
-- [ ] figure out if i can use a calculator in the exam
-- [ ] compile a list of all the formulae needed
-- [ ] 
+- [x] figure out if i can use a calculator in the exam
+- [x] compile a list of all the formulae needed
+### 14 may
+- [ ] do topic test on ad as model
+- [ ] revise formulas
+- [ ] **do econ test 9:07am**
+- [ ] figure out where to start with WAD
       
 
 
