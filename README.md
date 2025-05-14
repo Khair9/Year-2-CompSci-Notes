@@ -231,9 +231,9 @@
 - [x] figure out if i can use a calculator in the exam
 - [x] compile a list of all the formulae needed
 ### 14 may
-- [ ] do topic test on ad as model
-- [ ] revise formulas
-- [ ] **do econ test 9:07am**
+- [x] do topic test on ad as model
+- [x] revise formulas
+- [x] **do econ test 9:07am**
 - [ ] figure out where to start with WAD
       
 
