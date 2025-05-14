@@ -1,6 +1,10 @@
 # [WAD](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/tree/main)
+
+
+
+ - [why did i choose this fuckass degree, how is this jsut one of the 6 courses i am taking this year](https://github.com/user-attachments/assets/dc23370c-0d2b-4091-a6a8-4ada49e9302a)
 -------------------------------
-[Y](https://github.com/user-attachments/assets/dc23370c-0d2b-4091-a6a8-4ada49e9302a)
+
 
 -------------------------------
 # WAD Lectures
