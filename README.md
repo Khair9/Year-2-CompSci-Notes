@@ -62,6 +62,8 @@
 
 [Econ](https://github.com/Khair9/Year-2-CompSci-Notes/blob/main/Econ/econ.md)
 
+[WAD](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/wad.md)
+
 
 
 
