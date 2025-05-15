@@ -237,7 +237,15 @@
 - [x] do topic test on ad as model
 - [x] revise formulas
 - [x] **do econ test 9:07am**
-- [ ] figure out where to start with WAD
+- [x] figure out where to start with WAD
+- [x] wad lecture
+- [x] wad lecture
+- [x] wad lecture
+### 15 May
+- [ ] wad lecture
+- [ ] wad lecture
+- [ ] look at practice exam to gage what to fucus on
+- [ ] **get imminizations 2:00pm start waling at 1:25pm** 
       
 
 
