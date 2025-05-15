@@ -92,9 +92,55 @@ node	and
       - `Delete	an	environment`
     
 ### simplified internal structure
+
   <img width="428" alt="image" src="https://github.com/user-attachments/assets/18675299-3471-4128-8da0-d6b11c615389" />
+  
 #### Building	Data	Models	(usually	in	models.py):		
  - The	models	specify	the	entities	and	relationships	in	the	database	–	these	provide	an	Object	Relational	Mapping	(ORM)	to	the	actual	database	tables	
  - The	framework	constructs	the	database	given	the	models	defined
  - Providing	Templates	
  - The	templates	mean	the	response	format	(html,xml,etc)	is	decoupled	from	the	data	to	be	presented	
+# Lecture 4 - basics of django
+### Building a `views.py`
+ - Views receive HttpRequest, return HttpReponse objects
+```python
+from django.http import HttpResponse
+def index(request):
+  return HttpResponse("Hello, world")
+```
+
+### Building the `urls.py`
+ - In `urls.py` in the mysite folder
+```python
+from django.urls import include, path
+from django.contrib import admin
+urlpatterns = [
+    path('polls/', include('polls.urls')),
+    path('admin/', admin.site.urls),
+]
+```
+
+### Directory structure
+<img width="129" alt="image" src="https://github.com/user-attachments/assets/b1f696cf-d197-4928-92b5-a73cc21f68f9" />
+
+(how the directory structure is displayed in the url)
+
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/68e650ee-2f64-4bfc-bc58-ccf6c569ea5a" />
+
+### setting up the model
+ - Run `python manage.py migrate` to create database tables
+
+```python
+from django.db import models
+
+class Question(models.Model):
+    question_text = models.CharField(max_length=200)
+    pub_date = models.DateTimeField('date published')
+
+class Choice(models.Model):
+    question = models.ForeignKey(Question,
+    on_delete=models.CASCADE)
+    choice_text = models.CharField(max_length=200)
+    votes = models.IntegerField(default=0)
+```
+
