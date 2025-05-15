@@ -242,7 +242,7 @@
 - [x] wad lecture
 - [x] wad lecture
 ### 15 May
-- [ ] wad lecture
+- [x] wad lecture
 - [ ] wad lecture
 - [ ] look at practice exam to gage what to fucus on
 - [ ] **get imminizations 2:00pm start waling at 1:25pm** 
