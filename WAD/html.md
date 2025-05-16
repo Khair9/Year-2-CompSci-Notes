@@ -47,4 +47,9 @@
 ###### Result:
 <img width="222" alt="image" src="https://github.com/user-attachments/assets/e41d7b5f-0f37-4915-bcf5-262b5516e08a" />
 
+#### Forms and Input Types
+ - `<form>, <input>, <textarea>, <select>, <button>, etc`.
+ - Attributes like `name, action, method, required, placeholder`
+ - Input types: `text, email, number, checkbox, radio, date, hidden`
+
 
