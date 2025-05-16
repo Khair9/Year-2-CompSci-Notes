@@ -244,10 +244,12 @@
 - [x] wad lecture
 ### 15 May
 - [x] wad lecture
-- [ ] wad lecture
+- [x] wad lecture
 - [ ] look at practice exam to gage what to fucus on
-- [ ] **get imminizations 2:00pm start waling at 1:25pm** 
-      
+- [x] **get imminizations 2:00pm start waling at 1:25pm** 
+### 16 May
+- [ ] look at practice exam to gage what to fucus on
+- [ ] do the moodle test on WAD
 
 
 
