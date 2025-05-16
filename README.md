@@ -250,8 +250,13 @@
 ### 16 May
 - [x] look at practice exam to gage what to fucus on
 - [x] do the moodle test on WAD
-- [ ] revise HTML
-- [ ] revise CSS
+- [x] revise HTML
+- [x] revise CSS
+- [ ] revise javaScript
+- [ ] start jQuer
+### 17 may
+- [ ] finish jQuery --> watch youtube videos
+- [ ] scan through lectures
 
 
 
