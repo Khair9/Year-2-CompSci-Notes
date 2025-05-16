@@ -51,5 +51,30 @@
  - `<form>, <input>, <textarea>, <select>, <button>, etc`.
  - Attributes like `name, action, method, required, placeholder`
  - Input types: `text, email, number, checkbox, radio, date, hidden`
+#### Semantic HTML
+- Meaningful tags like: `<header>, <nav>, <main>, <section>, <article>, <footer>`
+
+#### Common meta tags and what they do
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="A personal blog about travel and food.">
+    <meta name="keywords" content="travel, food, blog">
+    <meta name="author" content="Jane Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Travel Blog</title>
+  </head>
+  <body>
+    <!-- Page content here -->
+  </body>
+</html>
+```
+ - `<meta charset="UTF-8">` --> sets charactar encoding
+ - `<meta name="description" content="Explore the best travel destinations and food experiences.">` --> Provides a **summary** of your page.
+ - `<meta name="keywords" content="travel, blog, adventure, food">` --> Keywords relevant to your content (SEO-related)
+
+
 
 
