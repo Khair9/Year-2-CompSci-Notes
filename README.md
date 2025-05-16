@@ -252,8 +252,8 @@
 - [x] do the moodle test on WAD
 - [x] revise HTML
 - [x] revise CSS
-- [ ] revise javaScript
-- [ ] start jQuer
+- [x] revise javaScript
+- [x] start jQuer
 ### 17 may
 - [ ] finish jQuery --> watch youtube videos
 - [ ] scan through lectures
