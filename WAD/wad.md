@@ -10,7 +10,7 @@
 ## Technologies in the course
 [HTML](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/html.md)
 
-[CSS]()
+[CSS](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/css.md)
 
 [XML]()
 
