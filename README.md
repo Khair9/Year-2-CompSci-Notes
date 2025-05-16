@@ -248,8 +248,10 @@
 - [ ] look at practice exam to gage what to fucus on
 - [x] **get imminizations 2:00pm start waling at 1:25pm** 
 ### 16 May
-- [ ] look at practice exam to gage what to fucus on
-- [ ] do the moodle test on WAD
+- [x] look at practice exam to gage what to fucus on
+- [x] do the moodle test on WAD
+- [ ] revise HTML
+- [ ] revise CSS
 
 
 
