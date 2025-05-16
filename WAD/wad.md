@@ -9,6 +9,9 @@
 -------------------------------
 ## Technologies in the course
 [HTML]()
+
 [CSS]()
+
 [XML]()
+
 [jQuery]()
