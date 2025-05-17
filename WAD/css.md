@@ -109,6 +109,58 @@ p {
 | `fixed`    | Positioned **relative to the browser window** (stays put when scrolling)      | ❌                       | ❌              | ✅                 |
 | `sticky`   | Acts like `relative`, then sticks to a point on scroll (like a sticky header) | ✅ → ❌ (at scroll point)| ✅              | ✅ (conditionally) |
 
+
+
+### ID Selector
+Syntax:
+```css
+#my-id {
+  /* styles */
+}
+```
+Example
+
+```css
+#main-title {
+  color: blue;
+}
+```
+
+```html
+<h1 id="main-title">This is blue</h1>
+```
+
+#### Rules about IDs:
+ - id must be unique on a page (only one element should have that ID)
+
+ - Use `#` in CSS to reference an ID
+
+---------------
+## Further CSS
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/9aab38dd-76e4-4d01-bae8-331b37bde774" />
+
+### **Class selectors** 
+ - work on a set of specified elements through the class attribute
+ - The **dot (.)** operator is used to define the class 
+```CSS
+<style>
+.warning {font-weight: bold;}
+</style>
+<p class="warning">This text will be displayed in bold.</p>
+<p>This text will NOT be displayed in bold.</p>
+<p class="warning">Bold again here.</p
+```
+### ID selector 
+ - provide a way to stylise unique elements through the id attribute
+ - The hash symbol (#) is used to specify a unique ID
+``` CSS
+<style>
+#first-para { font-weight: bold; }
+</style>
+<p id="first-para">This paragraph will be bold-faced.</p>
+<p>This will not be bold.</p>
+<p id="third-para">This will not be bold.</p>
+```
 ### Decendant Selector
 A descendant selector targets elements that are nested inside another element, at any level of depth.
 ```css
@@ -135,31 +187,30 @@ This targets every `<p>` that is inside a `<div>`, even if it’s deeply nested:
 </div>
 ```
 
-### ID Selector
-Syntax:
-```css
-#my-id {
-  /* styles */
+### Restricted Class and ID Selectors
+In web development, the term "restricted selectors" usually refers to CSS selectors that apply styles only under certain conditions or in specific contexts — rather than globally.
+##### Example code
+###### Element inside a class
+```CSS
+.red h2 {
+  color: red;
 }
 ```
-Example
-
-```css
-#main-title {
-  color: blue;
+ - This restricts the style to `<h2>` elements inside an element with the class `red`.
+###### Element with a specific class
+```CSS
+h2.red {
+  color: red;
 }
 ```
+- This restricts the style to `<h2>` elements that have the `red` class directly on them.
 
-```html
-<h1 id="main-title">This is blue</h1>
+###### Element inside an ID
+```CSS
+#red h2 {
+  color: red;
+}
 ```
-
-#### Rules about IDs:
- - id must be unique on a page (only one element should have that ID)
-
- - Use `#` in CSS to reference an ID
-
-
 
 
 
