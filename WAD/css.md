@@ -1,5 +1,8 @@
 # [CSS - Cascading Style Sheets](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/wad.md)
 It controls how HTML elements look — colors, fonts, layouts, spacing, etc.
+[The full list of properties can be found](http://www.w3.org/TR/CSS22/propidx.html)
+[Compact CSS Cheatsheets are useful](http://www.lesliefranke.com/files/reference/csscheatsheet.html)
+
 ### Inline CSS
 style directly in the HTML element
 
@@ -212,6 +215,36 @@ h2.red {
 }
 ```
 
+### [Example](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/cssExample.md)
 
+## CSS specificity
+When multiple CSS rules apply to the same HTML element, and they set conflicting styles (e.g., different colors), the browser needs a way to decide which rule wins. This is where CSS specificity comes in.
+
+| Rule Type                    | Specificity |
+| ---------------------------- | ----------- |
+| Inline styles                | `1,0,0,0`   |
+| ID selectors                 | `0,1,0,0`   |
+| Class/attribute/pseudo-class | `0,0,1,0`   |
+| Element/pseudo-element       | `0,0,0,1`   |
+
+| Selector               | Specificity | Breakdown                            |
+| ---------------------- | ----------- | ------------------------------------ |
+| `h1`                   | `0,0,0,1`   | 1 element (`h1`)                     |
+| `body h1`              | `0,0,0,2`   | 2 elements (`body` and `h1`)         |
+| `#content h2`          | `0,1,0,1`   | 1 ID (`#content`), 1 element (`h2`)  |
+| `h2.grape`             | `0,0,1,1`   | 1 class (`.grape`), 1 element (`h2`) |
+| `style="color: blue;"` | `1,0,0,0`   | Inline styles always win             |
+
+So when multiple styles apply:
+
+- Compare specificity values (like comparing phone numbers).
+- If equal, the later one in the CSS file wins.
+- Inline styles trump external styles. 
+- !important can override all unless there's a more specific !important.
+
+
+## The box model
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/22adefdb-56ee-4991-9f39-8147f8bb3bfd" />
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/3b7347f8-20d8-461e-8e31-6cfa86f5ffae" />
 
 
