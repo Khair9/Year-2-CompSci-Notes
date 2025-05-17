@@ -1,0 +1,92 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body Styling */
+  body {
+    font-family: 'Courier';
+    background-color: #ebe7d0;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Header Section */
+  header {
+    text-align: center;
+    background-color: #020d46;
+    color: white;
+    padding: 30px 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  /* Subtitle */
+  .subtitle {
+    font-style: italic;
+    font-size: 1.1rem;
+    margin-top: 10px;
+  }
+  
+  /* Content Section */
+  #content {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+  
+  /* Interactive Text */
+  .interactive {
+    color: #ffffff;
+    background-color: #2196F3;
+    padding: 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+  }
+  
+  /* Hover Effect with Transition */
+  .interactive:hover {
+    color: #000000;
+    background-color: #90CAF9;
+  }
+  
+  /* Info Text Hidden by Default */
+  .info-text {
+    display: none;
+    font-size: 1rem;
+    margin: 15px 0;
+    color: #555;
+  }
+  
+  /* Button Styling */
+  button {
+    background-color: #020d46;
+    font-family: 'Courier';
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #6643ff;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #777;
+    font-size: 0.9rem;
+  }
+  
