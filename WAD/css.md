@@ -1,6 +1,8 @@
 # [CSS - Cascading Style Sheets](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/wad.md)
 It controls how HTML elements look — colors, fonts, layouts, spacing, etc.
+
 [The full list of properties can be found](http://www.w3.org/TR/CSS22/propidx.html)
+
 [Compact CSS Cheatsheets are useful](http://www.lesliefranke.com/files/reference/csscheatsheet.html)
 
 ### Inline CSS
