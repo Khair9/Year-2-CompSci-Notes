@@ -148,12 +148,12 @@ class Choice(models.Model):
 
 # Lecture 7-8
 ## 📚 Common Tiered Architecture Models:
-1. Two-Tier Architecture:
+### 1. Two-Tier Architecture:
 - **Client Tier (Frontend)**: The user's device/browser that sends requests and displays data.
 - **Server Tier (Backend + Database)**: A server that processes requests and interacts with the database.
 🧠 Used in simple apps. Can get messy as app complexity grows.
 
-2. Three-Tier Architecture (most common):
+### 2. Three-Tier Architecture (most common):
 - **Presentation Tier**:
      - This is the frontend (e.g., HTML/CSS/JS).
      - Handles what the user sees and interacts with.
@@ -165,18 +165,18 @@ class Choice(models.Model):
      - Stores and retrieves data.
 - 🧠 Helps separate responsibilities, making development and debugging easier.
 
-3. N-Tier Architecture:
+### 3. N-Tier Architecture:
 
 A more complex form of the 3-tier model.
 
-May have extra layers like:
+#### May have extra layers like:
 - API layer
 - Authentication layer
 - Microservices layer
 - Caching laye
 🧠 Useful for large-scale applications or enterprise systems.
 
-🔍 Why Use Tiered Architectures?
+### 🔍 Why Use Tiered Architectures?
 Benefit	Description
 - Separation of concerns	Each tier handles a specific part of the app.
 - Scalability	You can scale individual tiers independently.
@@ -184,7 +184,7 @@ Benefit	Description
 - Reusability	Logic or components in one tier can be reused in other projects.
 - Security	Each tier can enforce its own access rules and validation.
 
-💡 Example:
+### 💡 Example:
 Think of an online bookstore:
 - Presentation Tier: A web page showing book listings.
 - Application Tier: Code that checks inventory, processes orders, applies discounts.
@@ -192,12 +192,14 @@ Think of an online bookstore:
 - Would you like a diagram or code example for better visualization?
 
 
+### Middleware
+- Within	the	middleware	tier,	usually	there	is	a	webserver,	an	application	server,	and	potential	media	servers	
+- Webserver:	handles	incoming	requests,	directing	them	to	the	appropriate	server	
+- Servers	could	be	on	the	same	machine	or	different	machines
 
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/3a40b4e1-e9dc-41ba-8e0c-07101766dee0" />
 
-
-
-
-
+##
 
 
 
