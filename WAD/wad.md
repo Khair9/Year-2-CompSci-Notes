@@ -10,7 +10,7 @@
 
 [lectures 6-11](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/6-10.md)
 
-[lectures 12-]()
+[lectures 12-](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/lectures12onwards.md)
 
 -------------------------------
 ## Technologies in the course
