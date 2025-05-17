@@ -1,4 +1,5 @@
 # [JavaScript](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/wad.md)
+## [The java script power point](https://moodle.gla.ac.uk/pluginfile.php/9699472/mod_resource/content/1/L13-Client-Side-Scripting.pdf)
 JavaScript is a programming language used to make **web pages interactive**
 
 ### Basic HTML script with JavaScript embedded
