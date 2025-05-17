@@ -8,6 +8,8 @@
 -------------------------------
 [lectures 1-5](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/lectures1-5.md)
 
+[lectures 6-10](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/6-10.md)
+
 -------------------------------
 ## Technologies in the course
 [HTML](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/html.md)
