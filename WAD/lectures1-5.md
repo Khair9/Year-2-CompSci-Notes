@@ -149,8 +149,8 @@ class Choice(models.Model):
 # Lecture 7-8
 ## 📚 Common Tiered Architecture Models:
 1. Two-Tier Architecture:
-- Client Tier (Frontend): The user's device/browser that sends requests and displays data.
-- Server Tier (Backend + Database): A server that processes requests and interacts with the database.
+- **Client Tier (Frontend)**: The user's device/browser that sends requests and displays data.
+- **Server Tier (Backend + Database)**: A server that processes requests and interacts with the database.
 🧠 Used in simple apps. Can get messy as app complexity grows.
 
 2. Three-Tier Architecture (most common):
