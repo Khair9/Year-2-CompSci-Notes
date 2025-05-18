@@ -261,9 +261,9 @@
 - [x] scan through lectures
 - [x] lecuture 11-14
 ### 18 may
-- [ ] lecuture 14
-- [ ] lecuture 15
-- [ ]  lecuture 16
+- [x] lecuture 14
+- [x] lecuture 15
+- [x]  lecuture 16
 - [ ]  lecuture 17
 - [ ]  lecuture 18
 - [ ]  lecture 19
