@@ -51,7 +51,35 @@ XML Schemas and DTDs (Document Type Definitions) are both used to define the str
 | Readability     | Simpler       | More complex but powerful |
 | Tool Support    | Basic         | Extensive                 |
 
-      
+### in summary
+ - XML	was	designed	to	transport	and	store	data	
+ - HTML	was	designed	to	display	data	
+ - Carrying	information	vs displaying	information
+
+## JSON - Java Script Object Notation
+
+- Lightweight	data	interchange	format	
+    - “Easy”	for	humans	to	read	and	write	
+    - Easy	for	machines	to	parse	and	generate	
+    - Less	boilerplate,	so	more	information	per	byte	
+- JSON	is	built	on	two	universal	data	structures	
+   - A	collection	of	name/value	pairs	
+       - Often	realized	as	a	object,	record,	struct,	dictionary,	hash.
+   - An	ordered	list	of	values	
+       - Often	realized	as	an	array,	vector,	list.
+### comparision of XML and JSON
+<img width = "500" alt="image" src="https://github.com/user-attachments/assets/635e7edc-703b-4e71-8b03-1680de7a479c" />
+<img width = "500" alt="image" src="https://github.com/user-attachments/assets/3aeef86a-5c03-4485-a7dc-cb949cc06a2a" />
+
+| **Similarities between JSON and XML**                         | **Differences between JSON and XML**  |
+| ------------------------------------------------------------- | ------------------------------------- |
+| Both are **self-describing** (human-readable)                 | JSON doesn't use end tags             |
+| Both are **hierarchical** (values within values)              | JSON is **shorter**                   |
+| Both can be **parsed and used by many programming languages** | JSON is **quicker to read and write** |
+| Both can be **fetched with XMLHttpRequest** (used in AJAX)    | JSON can **use arrays**               |
+
+
+
 
 
   
