@@ -151,7 +151,65 @@ POST:
 - **Session IDs** in URLs
 - **Hidden form fields** (used in POST requests)
 
+-----------------
+
+# Web Application Frameworks
+### Why Web frameworks exist
+When building web apps from scratch:
+- You repeat a lot of the same code (like database access, user login).
+- It gets tedious and inefficient.
+- You want to separate concerns – structure your code better for reuse and debugging.
+### MVC – Model-View-Controller
+- **Model**: Deals with the data (e.g., what’s in the database).
+- **View**: What the user sees (HTML, templates).
+- **Controller**: Handles input and decides what to do with it.
+
+#### MVC workflow
+ - User clicks a button → controller figures out what to do.
+ - Controller updates model → model updates data.
+ - Model notifies view → view updates the UI.
+
+Benefits:|Drawbacks:
+---------|----------
+Easier testing and debugging.|More files and setup (overhead) for small projects.
+Code is modular and reusable.|Harder to understand at first.
+Multiple views can use the same model.|
+
+### Web Application Framework (WAF)
+Think of a WAF like a building frame or car chassis – it gives you the structure and tools to build with, faster and more reliably.
+
+Key Features Often Included:
+- User login and permissions
+- Database access (via ORM)
+- Templates
+- Session handling
+- AJAX support
+- Security features
+
+#### Characteristics of Frameworks
+- **Inversion of Control**: The framework calls your code (not the other way around).
+- **Default Behavior**: Comes with helpful built-in functions.
+- **Extensibility**: You can customize what you need.
+- **Non-modifiable Core**: You usually use the framework as-is (unless contributing).
 
 
+#### Frameworks vs. Libraries
+- Framework: Controls the flow and calls your code.
+- Example: Django decides when your view function runs.
+- Library: You call it when you need it.
+- Example: You use a date formatting library in your code.
 
+#### Common WAF features
+**Templating systems**: Combine HTML with dynamic data.
+**Caching**: Speed up pages.
+**Security**: Login systems, permissions.
+**URL mapping**: Nice, clean URLs.
+**AJAX support**: Interactive, fast web pages.
+**Form handling**: Easy form building and validation.
+
+#### Framework Caveats
+- You must invest time to learn the framework.
+- You trade flexibility for speed.
+- Skills might not transfer between frameworks.
+- Ecosystem is still evolving – lots of choices, not all will survive.
 
