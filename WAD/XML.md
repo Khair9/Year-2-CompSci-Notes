@@ -7,4 +7,4 @@ Why	did	the	W3C	design	XML?
  - Standard	Generalized	Mark-up	Language	(SGML)	was	too	complex	
  - While,	HTML	was	too	limited	and	mixed	format	with structure
 
- - 
+##### [Sample XML script](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/sampleXML.xml)
