@@ -88,3 +88,70 @@ for (var 1 = 0; i < divs.length; i++) {
 // bool is useCapture mode (don't have to include - defaults to false)
 divs[il.addEventListener("click", capture, true); divs^ii.addEventListener("click", bubble, false);
 ```
+
+-----------------------
+
+# Lecture 18 - Messaging
+### System Architecture & Messaging
+When building web apps, we need to send messages between systems (e.g., client ↔ server). These messages need to follow a certain format and protocol depending on what you're trying to do.
+### Application Communication
+1. HTTP (Hypertext Transfer Protocol)
+    - A common protocol used to request and send data on the web.
+    - Follows a Request-Response pattern (you ask → it answers).
+1. Two popular request types: GET and POST.
+    - User Agent Specific Protocols (UASP)
+    - Defines how the data is structured, e.g., JSON, XML, XHTML.
+### Request-Response Pattern
+- A user/browser makes a request (e.g., clicking a link).
+- The server sends a response (e.g., a webpage).
+- This usually happens synchronously (immediate response), but newer versions like HTTP/2 can be asynchronous.
+### How It All Happens (Step-by-Step)
+- User clicks a link.
+- Browser asks DNS for the IP address.
+- DNS replies with the server's IP.
+- Browser connects to server on port 80 (HTTP) or 443 (HTTPS).
+- Browser sends an HTTP request (e.g., "get me the homepage").
+- Server sends back a response (e.g., HTML content).
+- Browser displays the page.
+
+### Sequence Diagrams
+- These diagrams show message flow in detail (who talks to who, and when).
+- Useful to map out interactions like:
+     - Requesting a page
+     - Loading stylesheets, scripts, and images
+     - Talking to the database
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1eeba44a-6168-452b-be7c-ae2378207b77" />
+
+### GET vs. POST
+**Idempotent**: doing it once or many times gives the same result.
+GET:
+- Sends data in the URL.
+- Visible, bookmarkable, good for read-only requests.
+- Example: `GET /search?query=chatgpt`
+- GET = safe and idempotent (won't change anything).
+
+POST:
+- Sends data in the message body (hidden from URL).
+- Used for submitting forms, file uploads, or anything that changes data.
+- Supports larger and more complex data.
+- POST = used when something might change (e.g., database update).
+
+### Other HTTP Methods
+- **HEAD**: like GET but only gets headers
+- **PUT**: upload or update data
+- **DELETE**: delete a resource
+- **OPTIONS**: find out what methods are supported
+- **TRACE / CONNECT**: used for debugging or proxy connection
+
+### Statelessness & Sessions
+- HTTP doesn’t remember you — every request is independent.
+- Solutions to "remember" users:
+- **Cookies**: small text files stored in the browser
+- **Session IDs** in URLs
+- **Hidden form fields** (used in POST requests)
+
+
+
+
+
