@@ -257,8 +257,18 @@
 - [x] revise javaScript
 - [x] start jQuer
 ### 17 may
-- [ ] finish jQuery --> watch youtube videos
-- [ ] scan through lectures
+- [x] finish jQuery --> watch youtube videos
+- [x] scan through lectures
+- [x] lecuture 11-14
+### 18 may
+- [ ] lecuture 14
+- [ ] lecuture 15
+- [ ]  lecuture 16
+- [ ]  lecuture 17
+- [ ]  lecuture 18
+- [ ]  lecture 19
+### Last day thank fuck i hate this
+- [ ] **Test WAD** 9:15 room 629
 
 
 
