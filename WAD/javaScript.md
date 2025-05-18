@@ -103,6 +103,44 @@ You include jQuery in your HTML file using a <script> tag.
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 ```
 
+------------------
+# more javascript
+[link to the slides where most the info is](https://moodle.gla.ac.uk/pluginfile.php/9702720/mod_resource/content/1/L14-JQuery-notes.pdf)
+```js
+class Rectangle {
+// Define the constructor
+// Note how it calls a method referred to by "this”
+constructor (idString, widthVal, heightVal) {
+this.id = idString;
+this.resize(widthVal,heightVal);
+}
+// What follows is a method
+resize (widthVal, heightVal) {
+this.width = widthVal;
+this.height = heightVal;
+}
+// Here is another method
+getArea () {
+ return this.width * this.height;
+}
+}
+// Test out the constructor and methods
+var rect = new Rectangle ("Test", 4, 5);
+document.writeln(rect.id);
+document.writeln(rect.getArea());
+rect.resize(6, 7);
+document.writeln(rect.getArea());
+```
+### Rest Operator
+ - Rest Operator in JS consists of a set of three dots (.) placed together and used to capture multiple elements into one array.
+ - Simplifies array manipulation by enabling extraction of elements into a new array.
+
+```js
+const [first, ...rest] = [1, 2, 3, 4, 5];
+console.log(first); // Output: 1
+console.log(rest); // Output: [2, 3, 4, 5]
+```
+
 
 
 
