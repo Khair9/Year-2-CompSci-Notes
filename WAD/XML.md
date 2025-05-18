@@ -18,3 +18,25 @@ The	structure	of	XML	is	tightly	controlled:
 
 ### XML document anatomy
 <img width = "700" alt="image" src="https://github.com/user-attachments/assets/7b636a58-1aed-4e6d-8620-4dcf38a41be7" />
+
+#### XML attributes and values
+- Attributes	are	characteristics	of	elements	
+- Attributes	are	case	sensitive	
+- Attributes	have	values	–	they	must	be	in	quotes!	
+- All	values	are	text	strings
+```XML
+<ResultSet type="web" totalResultsAvailable="211000000"
+totalResultsReturned="10" firstResultPosition="1" > … </ResultSet>
+```
+
+#### XML tree structure
+<img width = "700" alt="image" src="https://github.com/user-attachments/assets/9e21e3f7-ad14-427a-8546-881bb4cf9bec" />
+
+
+#### Predefined and Valid XML
+ - To	share	XML	a	pre-defined	structure	can	be	used:	
+ - These	describe	the	tags	which	can	appear,	and	can	be	done	using:	
+    1. Document	Type	Definitions	(DTD),	or		
+    2. XML	Schemas	and	XML	Namespaces
+  
+  
