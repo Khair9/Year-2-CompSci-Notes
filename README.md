@@ -267,7 +267,8 @@
 - [ ]  lecuture 17
 - [ ]  lecuture 18
 - [ ]  lecture 19
-### Last day thank fuck i hate this
+- [ ]  Attempt past paper with same format as this year and mark as you go along
+# Last day thank fuck i hate this
 - [ ] **Test WAD** 9:15 room 629
 
 
