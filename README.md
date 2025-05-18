@@ -267,8 +267,12 @@
 - [x]  lecuture 17
 - [x]  lecuture 18
 - [x]  lecture 19
-- [ ]  Attempt past paper with same format as this year and mark as you go along
+- [x]  Attempt past paper with same format as this year and mark as you go along
 # Last day thank fuck i hate this
+- [ ] wake up at **5:30am**
+- [ ] go through all the notes for about an hr
+- [ ] finish the test that is run through
+- [ ] figure out if all the tests are multiple choice
 - [ ] **Test WAD** 9:15 room 629
 
 
