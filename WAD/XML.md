@@ -1,4 +1,5 @@
 # [XML & JSOM](https://github.com/Hanif-K-Musaheb/Year-2-CompSci-Notes/blob/main/WAD/wad.md)
+[a useful video on xml schema](https://www.youtube.com/watch?v=1BjmZHRHDv0)
 ## XML
 ### Background of XML
  - **XML**	stands	for	**“eXtensible	Markup Language”**
