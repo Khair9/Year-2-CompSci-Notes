@@ -38,5 +38,20 @@ totalResultsReturned="10" firstResultPosition="1" > … </ResultSet>
  - These	describe	the	tags	which	can	appear,	and	can	be	done	using:	
     1. Document	Type	Definitions	(DTD),	or		
     2. XML	Schemas	and	XML	Namespaces
-  
+
+XML Schemas and DTDs (Document Type Definitions) are both used to define the structure and rules of an XML document. However, they have significant differences in terms of features, syntax, and capabilities.
+
+| Feature         | DTD           | XML Schema (XSD)          |
+| --------------- | ------------- | ------------------------- |
+| Syntax          | Not XML       | XML-based                 |
+| Data Types      | Limited       | Rich set + Custom types   |
+| Namespaces      | Not supported | Supported                 |
+| Extensibility   | Limited       | High                      |
+| Object-Oriented | No            | Yes (inheritance, etc.)   |
+| Readability     | Simpler       | More complex but powerful |
+| Tool Support    | Basic         | Extensive                 |
+
+      
+
+
   
