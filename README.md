@@ -264,9 +264,9 @@
 - [x] lecuture 14
 - [x] lecuture 15
 - [x]  lecuture 16
-- [ ]  lecuture 17
-- [ ]  lecuture 18
-- [ ]  lecture 19
+- [x]  lecuture 17
+- [x]  lecuture 18
+- [x]  lecture 19
 - [ ]  Attempt past paper with same format as this year and mark as you go along
 # Last day thank fuck i hate this
 - [ ] **Test WAD** 9:15 room 629
