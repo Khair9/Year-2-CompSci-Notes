@@ -102,6 +102,12 @@ You include jQuery in your HTML file using a <script> tag.
 ```html
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 ```
+### jQuery Syntax $()
+ - jQuery uses a basic pattern of selecting and acting on a particular DOM element and manipulating its parameters
+ - The selectors of CSS are reused in jQuery
+![image](https://github.com/user-attachments/assets/844c9943-b22c-4891-900e-89a30dbb1200)
+
+![image](https://github.com/user-attachments/assets/8d3a3b0d-34d5-452b-8d15-3ba57c2f31e9)
 
 ------------------
 # more javascript
