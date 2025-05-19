@@ -125,13 +125,13 @@ When building web apps, we need to send messages between systems (e.g., client â
 
 ### GET vs. POST
 **Idempotent**: doing it once or many times gives the same result.
-GET:
+##### GET:
 - Sends data in the URL.
 - Visible, bookmarkable, good for read-only requests.
 - Example: `GET /search?query=chatgpt`
 - GET = safe and idempotent (won't change anything).
 
-POST:
+##### POST:
 - Sends data in the message body (hidden from URL).
 - Used for submitting forms, file uploads, or anything that changes data.
 - Supports larger and more complex data.
