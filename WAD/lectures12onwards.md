@@ -200,12 +200,12 @@ Key Features Often Included:
 - Example: You use a date formatting library in your code.
 
 #### Common WAF features
-**Templating systems**: Combine HTML with dynamic data.
-**Caching**: Speed up pages.
-**Security**: Login systems, permissions.
-**URL mapping**: Nice, clean URLs.
-**AJAX support**: Interactive, fast web pages.
-**Form handling**: Easy form building and validation.
+- **Templating systems**: Combine HTML with dynamic data.
+- **Caching**: Speed up pages.
+- **Security**: Login systems, permissions.
+- **URL mapping**: Nice, clean URLs.
+- **AJAX support**: Interactive, fast web pages.
+- **Form handling**: Easy form building and validation.
 
 #### Framework Caveats
 - You must invest time to learn the framework.
